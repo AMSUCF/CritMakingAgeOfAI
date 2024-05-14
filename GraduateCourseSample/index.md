@@ -197,7 +197,6 @@ In addition, each module includes samples, tutorials, and resources to guide the
 - Explore: [*Digital Pedagogy in the Humanities*](https://digitalpedagogy.hcommons.org/)
 - Quinn Dombrowski, [*Future Text*](https://quinndombrowski.com/textiles/future-text/)
 - Joshua Reinier, [*Z^k: A Zettelkablooey*](https://thedigitalreview.com/issue03/zk/index.html)
-- **Featured Guest: PS Berge**
 - **[Optional Making Exercise Thirteen: Multimodal](exercises/thirteen_multimodal)**
 
 ### Week Fifteen: Final Reflection 
