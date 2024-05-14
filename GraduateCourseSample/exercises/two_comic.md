@@ -8,7 +8,7 @@ This exercise is influenced by a prompt from Nick Sousanis, and draws on his [Ma
 
 Whether you’ve encountered comics online, circulating through platforms such as Instagram and Reddit, or on paper, the basic structures are the same: comics rely upon panels, or framed images, often with text in or below, separated by gaps, or gutters. These structures are recognizable but incredibly flexible: take for instance this example from ChatGPT4 and Dall-E, based on the prompt “create a generic stick figure conversation newspaper comic, with six panels:”
 
-- ![AI Comic](../img/aicomic.png)
+![AI Comic](../img/aicomic.png)
 
 As you make your comic, think about:
 
@@ -24,10 +24,10 @@ Next, gather images and combine them on the page: mix your own material with tha
 
 This type of remix, tracing-to-create, and play is the focus, and the act of creating and manipulating images will open new possibilities for understanding and exploring them in the future. Reading comics by imaginative creators who remix and rethink the page, such as Bryan Talbot’s Alice in Sunderland on the links between Lewis Carroll and the port city of Sunderland (Talbot), can inspire new approaches in your own design.
 
-- ![Alice in Dataland](../img/comic.jpg)
+![Alice in Dataland](../img/comic.jpg)
 
 I used this approach for the cheesy, cartoony illustrations for a full section of that *Kairos* article, [viewable here](https://kairos.technorhetoric.net/20.1/inventio/salter/five/index.html).
 
-- ![Excerpt](../img/dataland.jpg)
+![Excerpt](../img/dataland.jpg)
 
 Remember, we're cultivating here an approach to the material that we'll bring into the digital as we progress this semester! As with the other approaches we'll be trying, know that some of the students in this course have much more experience with visual design than others, so try to focus on your own work and process rather than comparing yourself to others.

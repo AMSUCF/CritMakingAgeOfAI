@@ -2,7 +2,7 @@
 
 As we look towards the role of computational tools in making things visible and in_visible, we are going to gradually expand our procedural literacy. So far, we've focused on adding dynamic elements (looping, choice, and interactions) to our making: this week, we will concentrate on the *variable* using [Tracery](https://tracery.io/), a grammar for procedural text generation created by Kate Compton.
 
-Before you can begin this assignment, it is important to understand the basics of JSON and Tracery. I suggest starting on this [nicely scaffolded practice website](http://www.crystalcodepalace.com/traceryTut.html), which walks you through the basics of JSON and Tracery and was also created by Kate Compton. Note that this goes into much more depth than we need this week, but we will have opportunities to use Tracery again. This site provides seven rows of short examples of different grammars and rules. The left column includes an explanation in plain English about the grammar or rule, the middle column on each row has a small sandbox area for you to modify and experiment with different code, and to the right of each sandbox is posted a preview of what that coded part would produce. The first coding example is text generation, with simple lists of replacement text options for one symbol: 
+Before you can begin this assignment, it is important to understand the basics of JSON and Tracery. I suggest starting with the [overview on GitHub](https://github.com/galaxykate/tracery?tab=readme-ov-file). Tracery works with grammar based on rules, as shown in the below code snippet defining all the possibilities to replace the word "animal."
 
 - "animal": ["unicorn","raven","sparrow","scorpion","coyote","eagle","owl","lizard","zebra","duck","kitten"] 
 
