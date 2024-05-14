@@ -13,7 +13,6 @@
   - [Course Description](#course-description)
   - [Course Objectives](#course-objectives)
   - [Materials and Texts](#materials-and-texts)
-  - [In addition, each module includes samples, tutorials, and resources to guide the week's making.](#in-addition-each-module-includes-samples-tutorials-and-resources-to-guide-the-weeks-making)
   - [Evaluation and Grading](#evaluation-and-grading)
   - [Weekly Schedule](#weekly-schedule)
     - [Week One: Provocations](#week-one-provocations)
@@ -67,8 +66,9 @@ This course requires a mix of applied and theoretical readings, including some o
 - Sasha Costanza-Chock, *Design Justice.* [Open Access](https://design-justice.pubpub.org/)
 - Nick Sousanis, *Unflattening.* 
 - Thomas S. Mullaney, Benjamin Peters, Mar Hicks and Kavita Philip. *Your Computer is On Fire.* 
-- 
-In addition, each module includes samples, tutorials, and resources to guide the week's making.
+
+In addition, each module includes samples, tutorials, and resources to guide the week's making. Those materials are linked from the exercise pages included in the weekly schedule below, and are modified directly from *Critical Making in the Age of AI*.
+
 ---
 
 ## Evaluation and Grading
