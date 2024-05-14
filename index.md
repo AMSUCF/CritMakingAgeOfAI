@@ -14,6 +14,6 @@ In addition, working samples of student works have been provided for each patter
 ## Sample Courses
 
 - [Graduate Course and Exercises](/GraduateCourseSample/index.md)
-- [Undergraduate Course and Exercises]()
+- [Undergraduate Course and Exercises](UndergradCourseSample/index.md)
 
 ## Examples of Student Work
