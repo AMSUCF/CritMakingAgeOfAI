@@ -1,4 +1,4 @@
-# Making Exercise Five: Games
+# Making Exercise Six: Game
 
 This week, we'll be working with Bitsy, the tool you'll be using to develop your essay game. Bitsy is a surprising combination of simple and powerful: it embodies the playful practices of "creativity under constraints" we've started exploring through these time-limited, occasionally Dada-ist exercises this semester. At times you might find its limitations frustrating, but these constraints can also help you stick to the available time and keep your scope manageable.
 
