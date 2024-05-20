@@ -49,3 +49,4 @@ In addition, working samples of student works have been provided for each patter
 ### Generation
 
 - [Kathryn Kong, Output](/Examples/KongOutput.pdf) and [Prompts](/Examples/KongGeneration.pdf)
+- [Ashley Zirkle, Generation](/Examples/ZirkleGeneration.pdf)
