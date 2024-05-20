@@ -46,6 +46,8 @@ In addition, working samples of student works have been provided for each patter
 
 ### Analysis
 
+- [Kayla Campana, Analysis](/Examples/CampanaAnalysis.pdf)
+
 ### Generation
 
 - [Kathryn Kong, Output](/Examples/KongOutput.pdf) and [Prompts](/Examples/KongGeneration.pdf)
