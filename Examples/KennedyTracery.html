@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Internet Graveyard of Critical Baking</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Describe the work here.">
+	<meta name="keywords" content="Enter a comma separated list of keywords for search engines to find your work.">
+	<meta name="author" content="Vee Kennedy">
+<!--
+Leonardo Flores' Generative Template
+
+Copyright 2023 Leonardo Flores
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
+<!-- 
+Enter your own credits or author's statement here.
+-->
+<style>
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        height: 100vh;
+        font-family: Arial, sans-serif; /* Change to preferred font. */
+        margin: 0;
+        padding: 0;
+        background-color: rgb(173, 229, 184); /* Change to preferred color. */
+    }
+    
+    #title-container {
+        width: 100%;
+        text-align: center; 
+		color: black; 
+        max-height: 300px;
+		font-size: 4em; /* Change to preferred size. */
+    }
+    
+    @media (max-width: 600px) {
+        #title-container {
+            max-height: 200px;
+        }
+        
+        #text-container {
+            width: 100%;
+        }
+    }
+     /* Modify this code to shape the text size, color and alignment, text container border, and background color. */   
+    #text-container {
+        text-align: left;
+        font-size: 3em; 
+		color: black; 
+        margin: auto; 
+        border: 0px solid black; /* Change 0px to your desired border thickness, if desired. You can also change the color. */
+        padding: 10px;
+        max-width: 90%; /* The text container will adapt to the line length up to 90% of window's width */
+		background-color: transparent;
+    }
+
+    /* CSS for buttons and modal */
+    #button-container {
+        position: fixed;
+        bottom: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+        width: 100%;
+    }
+    
+    .button {
+        margin: 10px;
+        font-size: 2em;
+    }
+	
+    .modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgb(0,0,0); /* Fallback color */
+        background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    }
+
+    .modal-content {
+        background-color: #fefefe;
+        margin: 15% auto; /* 15% from the top and centered */
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%; /* Could be more or less, depending on screen size */
+        font-size: 2.5em;
+    }
+
+    /* The Close Button */
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
+</style>
+    </head>
+    <body>
+<!-- Replace the word "Title" below with the title for your work. -->
+		<div id="title-container">The Internet Graveyard of Critical Baking</div> 
+        <div id="text-container"></div>
+        <div id="button-container">
+            <button class="button" onclick="displayStatement()">Statement of Critical Making</button>
+            <button class="button" onclick="displayString()">Regenerate</button>
+        </div>
+        <div id="myModal" class="modal">
+<!-- Replace the statement below with your own artistic statement. The <p></p> tags mark the beginning and end of a paragraph. -->
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <p>Your computer is on fire, your world is on fire. Let your imposter syndrome be on fire, too. This critical making experiment created in Dr. Salter's Critical Making class during Spring 2024 uses Leo Flores' grammar demo to explore dead things from ages of internet past in conjunction with scholars of Texts and Technology and PhD student life. You cannot bake your problems away, young scholar, you can only weep about them, and rest well knowing that many others are weeping over those same problems, too.  
+                </p> 
+            </div>
+        </div>
+<!-- The script below is your primary writing space, where you get to design the sentence templates, variables, and datasets. The sentence templates are in "origin" and you can modify them as you see fit, following the following logics derived from Tracery: variables are held between hastags (#) in the dataset, and they are defined below between quotation marks. Items in the dataset are inside quotation marks and separated by commas. You can rename any and all variables and add as many as you like, but keep the top one as "origin". All the datasets can be modified. Be sure to define the datasets for all variables. If you wish to add line breaks, insert the code <br> within the sentence template, you need to do it later in the script.-->
+        
+        <script>
+    var obj = {
+    "origin": [
+        "Now and then I #think# about #possessive# #topic#,<br>I #emotion# #possessive# #criticalbaking#'s #scholar#<br>#relate# remember #emotion# #possessive# #topic#?", 
+        "I #emotion# #possessive# #topic#<br>when #possessive# #scholar# is #where#<br>#relate# #possessive# #topic# makes me #action#<br>when you are #where#."],
+    "possessive": ["my", "your", "their", "our"],
+    "topic": ["#criticalbaking#", "#flashgames#", "#scholar#"],
+    "criticalbaking": ["brownie", "cookie", "cake", "muffin", "frosting"],
+    "flashgames": ["Neopets", "GaiaOnline", "GeoCities page", "AngelFire Site", "MSN Messenger", "Myspace", "playing Hannah and the Pirate Caves"],
+	"relate": ["and", "but", "yet", "while"],
+	"emotion": ["long for", "forget", "miss"],
+	"where": ["home", "here", "away", "gone", "decomissioned", "lost"],
+	"action": ["laugh", "cry", "caffinate"],
+    "scholar": ["Boghost", "Derrida", "Ong", "Bolter", "Sousannis", "Said"],
+    "think": ["think","imagine","meditate on","wonder","dream"]
+};
+
+// This function detects variables and resolves them
+function generateString(template) {
+    let placeholder = template.match(/#([^#]+)#/);
+    while (placeholder) {
+        let [fullMatch, key] = placeholder;
+        let choices = obj[key];
+        if (!choices) {
+            throw new Error(`No choices for key '${key}'`);
+        }
+        let choice = choices[Math.floor(Math.random() * choices.length)];
+        template = template.replace(fullMatch, generateString(choice));
+        placeholder = template.match(/#([^#]+)#/);
+    }
+    return template;
+}
+
+var timer;  // to keep track of the timer
+
+// This function generates the text when it loads, clears any existing timer, then sets up a new timer to do it again after 30 seconds
+function displayString() {
+    var randomIndex = Math.floor(Math.random() * obj.origin.length);
+    document.getElementById('text-container').innerHTML = generateString(obj.origin[randomIndex]);
+    
+    // clear any existing timer
+    clearTimeout(timer);
+    // set a new timer
+    timer = setTimeout(displayString, 30000); // This makes the text regenerate every 30 seconds. Modify this number to make it regenerate more slowly or delete, if you don't want it to regenerate.
+}
+
+// Call once at the beginning
+displayString();
+  
+            // Get the modal - this is the About pop-up text.
+            var modal = document.getElementById("myModal");
+
+            // Get the <span> element that closes the modal
+            var span = document.getElementsByClassName("close")[0];
+
+            // When the user clicks on <span> (x), close the modal
+            span.onclick = function() {
+                modal.style.display = "none";
+            }
+
+            // When the user clicks anywhere outside of the modal, close it
+            window.onclick = function(event) {
+                if (event.target == modal) {
+                    modal.style.display = "none";
+                }
+            }
+
+            // Function to display the about modal
+            function displayStatement() {
+                modal.style.display = "block";
+            }
+// This makes it so the text goes fullscreen if you click anywhere. I find texts look better when fullscreen. It doesn't work on phones or tablets.
+		    function goFullscreen() {
+        if (document.documentElement.requestFullscreen) {
+            document.documentElement.requestFullscreen();
+        } else if (document.documentElement.mozRequestFullScreen) { // Firefox
+            document.documentElement.mozRequestFullScreen();
+        } else if (document.documentElement.webkitRequestFullscreen) { // Chrome, Safari and Opera
+            document.documentElement.webkitRequestFullscreen();
+        } else if (document.documentElement.msRequestFullscreen) { // IE/Edge
+            document.documentElement.msRequestFullscreen();
+        }
+    }
+
+    document.onclick = goFullscreen;
+</script>
+</body>
+</html>

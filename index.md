@@ -14,6 +14,38 @@ In addition, working samples of student works have been provided for each patter
 ## Sample Courses
 
 - [Graduate Course and Exercises](/GraduateCourseSample/index.md)
-- [Undergraduate Course and Exercises](UndergradCourseSample/index.md)
+- [Undergraduate Course and Exercises](/UndergradCourseSample/index.md)
 
 ## Examples of Student Work
+
+### Selfie
+
+- [Monica Gonzalez Burgos, Selfie](/Examples/BurgosSelfie.jpeg)
+- [Ashley Zirkle, Selfie](/Examples/ZirkleSelfie.jpg) and [Plan](/Examples/ZirkleSelfiePlan.png)
+
+### GIF
+
+- [Kathryn Kong, GIF](/Examples/KongGIF.gif)
+- [Kate Loesel, GIF](/Examples/LoeselGIF.gif)
+
+### Comic
+
+### Map
+
+- [Emilie Buckley, Map](https://earth.google.com/earth/d/1X9Ws99u0LAokFPPMw7GMn_P3hVR7n7js?usp=sharing) and [Data File](/Examples/BuckleyMap.kml)
+
+### Hypertext
+
+### Game
+
+- [Vee Kennedy, Bitsy](/Examples/KennedyBitsy.html)
+
+### Bot
+
+- [Vee Kennedy, Tracery](/Examples/KennedyTracery.html)
+
+### Analysis
+
+### Generation
+
+- [Kathryn Kong, Output](/Examples/KongOutput.pdf) and [Prompts](/Examples/KongGeneration.pdf)
