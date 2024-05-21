@@ -25,7 +25,7 @@ In addition, working samples of student works have been provided for each patter
 
 ### GIF
 
-- [Kathryn Kong, GIF](/Examples/KongGIF.gif)
+- [Yingzi Kong, GIF](/Examples/KongGIF.gif)
 - [Kate Loesel, GIF](/Examples/LoeselGIF.gif)
 
 ### Comic
@@ -33,6 +33,7 @@ In addition, working samples of student works have been provided for each patter
 ### Map
 
 - [Emilie Buckley, Map](https://earth.google.com/earth/d/1X9Ws99u0LAokFPPMw7GMn_P3hVR7n7js?usp=sharing) and [Data File](/Examples/BuckleyMap.kml)
+- [Mirek Stolee, Map](https://earth.google.com/earth/d/16YTE3MbL6EG6NF-tWpTYx_iGi6XOU2mA?usp=sharing) and [Data File](/Examples/StoleeMap.kml)
 
 ### Hypertext
 
@@ -47,8 +48,9 @@ In addition, working samples of student works have been provided for each patter
 ### Analysis
 
 - [Kayla Campana, Analysis](/Examples/CampanaAnalysis.pdf)
+- [Mirek Stolee, Analysis](/Examples/StoleeAnalysis.pdf) and [Generated Text](/Examples/StoleeGeneratedText.txt)
 
 ### Generation
 
-- [Kathryn Kong, Output](/Examples/KongOutput.pdf) and [Prompts](/Examples/KongGeneration.pdf)
+- [Yingzi Kong, Output](/Examples/KongOutput.pdf) and [Prompts](/Examples/KongGeneration.pdf)
 - [Ashley Zirkle, Generation](/Examples/ZirkleGeneration.pdf)
