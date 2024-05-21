@@ -16,14 +16,18 @@ In addition, working samples of student works have been provided for each patter
 - [Graduate Course and Exercises](/GraduateCourseSample/index.md)
 - [Undergraduate Course and Exercises](/UndergradCourseSample/index.md)
 
-## Examples of Student Work
+## Example Work
 
 ### Selfie
+
+#### Graduate
 
 - [Monica Gonzalez Burgos, Selfie](/Examples/BurgosSelfie.jpeg)
 - [Ashley Zirkle, Selfie](/Examples/ZirkleSelfie.jpg) and [Plan](/Examples/ZirkleSelfiePlan.png)
 
 ### GIF
+
+#### Graduate
 
 - [Yingzi Kong, GIF](/Examples/KongGIF.gif)
 - [Kate Loesel, GIF](/Examples/LoeselGIF.gif)
@@ -32,6 +36,8 @@ In addition, working samples of student works have been provided for each patter
 
 ### Map
 
+#### Graduate
+
 - [Emilie Buckley, Map](https://earth.google.com/earth/d/1X9Ws99u0LAokFPPMw7GMn_P3hVR7n7js?usp=sharing) and [Data File](/Examples/BuckleyMap.kml)
 - [Mirek Stolee, Map](https://earth.google.com/earth/d/16YTE3MbL6EG6NF-tWpTYx_iGi6XOU2mA?usp=sharing) and [Data File](/Examples/StoleeMap.kml)
 
@@ -39,9 +45,13 @@ In addition, working samples of student works have been provided for each patter
 
 ### Game
 
+#### Graduate
+
 - [Vee Kennedy, Bitsy](/Examples/KennedyBitsy.html)
 
 ### Bot
+
+#### Graduate
 
 - [Vee Kennedy, Tracery](/Examples/KennedyTracery.html)
 
