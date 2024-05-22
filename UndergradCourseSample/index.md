@@ -1,6 +1,6 @@
 ## DIG 3171: Digital Tools for the Humanities
 
-**[I. Course Description]{.underline}**
+### I. Course Description
 
 Examination of digital tools and techniques, including web and games,
 used for projects and research in digital humanities. This section of
@@ -10,7 +10,7 @@ processes and a significant portion of your grade will be derived from
 course-related project(s) based on original research and/or creative
 scholarship.
 
-**[II. Course Purpose & Objectives]{.underline}**
+### II. Course Purpose & Objectives
 
 The course examines digital humanities tools through the lens of
 critical making. This course provides an introduction to digital
@@ -27,7 +27,7 @@ Students will be able to:
 -   Engage in scholarly discourse around the digital humanities.
 -   Conduct and present original critical making research.
 
-**[III. Required Texts]{.underline}**
+### III. Required Texts
 
 1.  Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Jeffrey, S.
     (2012).
@@ -45,12 +45,12 @@ Students will be able to:
 ***All texts are free eBooks.** Some links ask for UCF login
 credentials.
 
-**[IV. Course Requirements\*]{.underline}**
+### IV. Course Requirements
 
-**Exercises & Conversations**
+#### Exercises & Conversations
 
 ***Each week***, you will be asked to **complete an activity, reflect on
-it, [and]{.underline} discuss your process.** I am always experimenting
+it, and discuss your process.** I am always experimenting
 with new platforms to enhance our conversations. This semester, we will
 use **Yellowdig.** This multimodal platform rewards participation with a
 weekly point maximum, so you will need to post weekly exercises that
@@ -66,7 +66,7 @@ Exercises and one optional exercise on the Fall schedule.
 exam for this course:** a short reflection on your experience in the
 course and outline your next steps for your research, career goals, etc.
 
-**Labs**
+#### Labs
 
 **Labs** are hands-on critical making assignments to help you learn
 about each digital humanities tool and how projects using the tool fit
@@ -79,15 +79,13 @@ process over product**; the research and thought behind each digital
 product is much more important than the appearance of digital product
 itself.
 
-**Research Assignments**
+#### Research Assignments
 
 The major research component of this course is broken into 4 smaller
 research assignments: A) Project Proposal, B) Annotated Bibliography, C)
 Abstract, D) Digital Project.
 
-**\***Detailed instructions and rubrics are available in Webcourses.
-
-**[XII. Course Schedule]{.underline}** \**Subject to revision\**
+### XII. Course Schedule
 
 **Week 1: Welcome** 
 
