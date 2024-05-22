@@ -21,17 +21,20 @@ In addition, working samples of student works have been provided for each patter
 ### Selfie
 
 - [Mónica G. González Burgos, Selfie](/Examples/BurgosSelfie.jpeg)
+- [Alessandra Zinicola Lopez, Selfie](/Examples/LopezSelfie.jpg)
 - [Anastasia Salter, Selfie](/Examples/SalterSelfie.jpg)
 - [Ashley Zirkle, Selfie](/Examples/ZirkleSelfie.jpg) and [Plan](/Examples/ZirkleSelfiePlan.png)
 
 ### Comic
+
+- [Alessandra Zinicola Lopez, Comic](/Examples/LopezComic.jpg)
 
 ### GIF
 
 - [PS Berge, GIF](/Examples/BergeGIF.gif)
 - [Farrah Cato, GIF](/Examples/CatoGIF.gif)
 - [Yingzi Kong, GIF](/Examples/KongGIF.gif)
-- [Kate Loesel, GIF](/Examples/LoeselGIF.gif)
+
 
 ### Map
 
