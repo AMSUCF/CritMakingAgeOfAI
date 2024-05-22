@@ -20,22 +20,30 @@ In addition, working samples of student works have been provided for each patter
 
 ### Selfie
 
-- [Monica Gonzalez Burgos, Selfie](/Examples/BurgosSelfie.jpeg)
+- [Mónica G. González Burgos, Selfie](/Examples/BurgosSelfie.jpeg)
+- [Anastasia Salter, Selfie](/Examples/SalterSelfie.jpg)
 - [Ashley Zirkle, Selfie](/Examples/ZirkleSelfie.jpg) and [Plan](/Examples/ZirkleSelfiePlan.png)
+
+### Comic
 
 ### GIF
 
+- [PS Berge, GIF](/Examples/BergeGIF.gif)
+- [Farrah Cato, GIF](/Examples/CatoGIF.gif)
 - [Yingzi Kong, GIF](/Examples/KongGIF.gif)
 - [Kate Loesel, GIF](/Examples/LoeselGIF.gif)
-
-### Comic
 
 ### Map
 
 - [Emilie Buckley, Map](https://earth.google.com/earth/d/1X9Ws99u0LAokFPPMw7GMn_P3hVR7n7js?usp=sharing) and [Data File](/Examples/BuckleyMap.kml)
+- [Taylor Rice, Map](https://earth.google.com/earth/d/1xL0rED_o8MNc5FzrReJvdph2iJimIMaj?usp=sharing) and [Data File](/Examples/RiceMap.kml)
+- [Sarah Scalisi, Map](https://earth.google.com/web/@18.1259561,17.85240426,-1116.03429696a,12869613.24073792d,30.00000017y,0.00071437h,0t,0r/data=MikKJwolCiExYXl6M2ZaWU55SXpuY3pPSWV1a29aamo3S2V0bUhtSnYgAQ) and [Data File](/Examples/ScalisiMap.kml)
 - [Mirek Stolee, Map](https://earth.google.com/earth/d/16YTE3MbL6EG6NF-tWpTYx_iGi6XOU2mA?usp=sharing) and [Data File](/Examples/StoleeMap.kml)
 
 ### Hypertext
+
+- [Sarah Scalisi, Hypertext](/Examples/ScalisiHypertext.html)
+- [Amy Schwinge, Hypertext](/Examples/SchwingeHypertext.html)
 
 ### Game
 
@@ -44,6 +52,7 @@ In addition, working samples of student works have been provided for each patter
 ### Bot
 
 - [Vee Kennedy, Tracery](/Examples/KennedyTracery.html)
+- [Amina Kotenko, Tracery](/Examples/KotenkoTracery.pdf) and [Bot](/Examples/KotenkoBot.pdf)
 
 ### Analysis
 

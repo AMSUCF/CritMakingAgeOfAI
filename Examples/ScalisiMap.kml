@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1ayz3fZYNyIznczOIeukoZjj7KetmHmJv">
+	<name>Cultural Representation in VALORANT</name>
+	<description>Accurate multi-cultural and multi-ethnic representation within the media is important for numerous reasons. “The essential feature of culture is that it is learned and transmitted from one generation to the next...”(Balela &amp; Mundy). In the United States, 68% of Americans play video games regularly, with 73% being Generation Z. On average, people play video games for 8-12 hours every week (Clement). With so much time being spent gaming, it is important to make video games inclusive and representative of their large player-base. Due to the impressionable youth playing video games, it is also imperative that games are informative in the cultural differences outside of one demographic of one type of player. In this Google Earth mapping project, I wanted to identify which countries and cultures were represented in one of my favorite video games, VALORANT. I wanted to not only showcase where the characters are from, but also how Riot Games represent their nationality through native languages, appearance, and key details in their design.
+
+Works Cited
+Balela, Majed, and Darren Mundy. “Analysing Cultural Heritage and Its Representation in Video Games .” DiGRA, University of Hull, 2015, www.digra.org/wp-content/uploads/digital-library/92_BalelaMundy_Analysing-Cultural-Heritage-and-its-Representation-in-Video-Games.pdf. 
+Clement, J. “U.S. Adults Weekly Gaming Hours by Gender 2022.” Statista, 6 Apr. 2022, www.statista.com/statistics/202847/gaming-time-average-week-adults-usa-gender/. 
+
+VALORANT agent information was sourced from: https://valorant.fandom.com/wiki/VALORANT_Wiki</description>
+	<gx:CascadingStyle kml:id="__managed_style_1A111D843E30AC5D95CA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B5B5199B830AC5D95CA">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A111D843E30AC5D95CA</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2393C1655430AC5D95CA</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_208417E49330AC5D95C9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2393C1655430AC5D95CA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B28FBFCE030AC5D95C9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05FE92B42530AC5D95C9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B28FBFCE030AC5D95C9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_208417E49330AC5D95C9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="08976C0CCF251832E9A3">
+		<name>United States</name>
+		<description><![CDATA[<div>Home to VALORANT agents Liam Byrne (Brimstone) and Sabine Callas (Viper).<br></div><div><br></div><div>Brimstone, originally from Baltimore was a firefighter who went on to become a veteran soldier before joining the VALORANT PROTOCOL. Many of his voice lines and in-game player cards revolve around sports popular in the United States like Baseball and Football. Many of his voice lines also relate directly to his age and war experience.<br></div><div><br></div><div>Viper, was an award-winning chemist from Seattle who worked for the enemy- Kingdom Corporation. Most of her backstory is unknown, adding to her character. Most of her voice lines revolve around her scientific background and an "incident" that has never been explained.&nbsp;</div>]]></description>
+		<gx:mid>/m/09c7w0</gx:mid>
+		<gx:fid>0x54eab584e432360b:0x1c3bb99243deb742</gx:fid>
+		<LookAt>
+			<longitude>-95.66500000000001</longitude>
+			<latitude>37.59999999999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9430204.437731374</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05FE92B42530AC5D95C9</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1R1RGaFlGTmZaUzYzam40SUpZS01HOFI4ODFxcjJ1WnNjZ0tGWnVCblNmTnhYMzFiWWVsaklYUkU4eTlEa2UzRFE4SmJzUmFyc2grZ0tuMGprWDBvSmZZRm9SL21sem5yalJaeDlVVFkrT2NVVzJUT1dVYTNUWTV5b1JPeGlzdG1uYzJSYTNBWmZJc0xXV3pOMEI3OTBLbGVnYzlkY2pkbGx5S3V4dEdPVUpnQk1LOEd3NHVITUJmNjJXK0VIWlBTb2hLWlk0ekVJWkY4OUYvNUZ3N1lFTUFPSmk2Qlpua01yZkJwSUxnKzFMeGJRM2lRPT0">
+				<gx:ImageUrl>https://doc-10-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/bl2f4sr4qob4sucelvr1m46jfg/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuFMdUtFDKc_bba3OChoXdgnjd5KN6JXFBrnglF1jAmJwbMszJMt0xPKkcYOLAWJhMV4HxGL56kVZ5bD6dsYhYuVxIsMQOcaIqmWWULpjDr96DIjEqvNWneUp-GgiUZKYiPJ764JsM7M9JrRmlo8nly9FVHIP0LhLqR6e6bhoL8GDKBKJAR-5VHiFjFGtXATu58?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-95.71289099999998,37.09024,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B02F319882518344646">
+		<name>Morocco</name>
+		<description><![CDATA[<div>Home to VALORANT agent <br></div><div>أمير العماري (Amir El Amari) (Cypher).&nbsp;<br></div><div><br></div><div>Before Cypher joined the VALORANT PROTOCOL he was an information broker from&nbsp;Rabat, Morocco.&nbsp;<br></div><div><br></div><div>Cypher has voice lines that incorporate Arabic. Some phrases that can be found in game include: "Khsara" (what a loss), "Mesh moushkil" (not a problem),&nbsp;"Mankdarch nkhelihom ikhesro lghzala diali" (I cannot let them lose my prey), and even common slang terms like&nbsp;"Maalma", which is a word used to celebrate someone's achievement.<br></div><div><br></div><div>Riot succeeded in hiring a British-Moroccan voice actor,&nbsp;Nabil Elouahabi, who represented Cypher and the Arabic language well.<br></div><div><br></div>]]></description>
+		<gx:mid>/m/04wgh</gx:mid>
+		<gx:fid>0xd0b88619651c58d:0xd9d39381c42cffc3</gx:fid>
+		<LookAt>
+			<longitude>-7.150688</longitude>
+			<latitude>31.80083465</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2528932.922959412</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1R2RiOWdyVHVibGI5anVXNllybzFJVlV4RFRNcm9ZT3ZpUTh1SnJJek5pZ1pnT01TemsvSXB1RlRrVGlBdkc4R3UzMSs2bzNxRXZ5QXFvUy9hanlIUDZMNS92Q3o0R05VVkFCT0xsdVJDQWhGakZsQVZVSlUwVytMK1orSFVqWm82elVUOXU3cFRsYktobUc5SDM3bGgwbjRYQXAzL3hrQnErVXMxZXR5OThBUEVMU2tWUjZiWmFoZ00yZHlnRGdQQmZ0RUtjUzVkS1pWV1RNREwvRkFBZDdvbnJjVkEzRVgxbkhQcm44czA5bzhCWldnPT0">
+				<gx:ImageUrl>https://doc-0s-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/51kegoc9gh3jnegltgr0ngt8g0/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuHnypIVDc0NCkfg4HEEjrdG644DQPt9ck-hNKA42nn5LOfnZfoKO6oiNCfPppIJX639Klf9lZvCJ-o8CIRoaYIoYXYZyLEsuewivhiiCRnSZ7abXcpHAYYu_xOCmd8ppGqD3rWwRcMNpFmxgEHxIGzgBzYVGioZEf-jB6STI-7J8HpbLtoxEYsgnkybHhh2Aos?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-7.092619999999999,31.791702,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04323FF669251834C188">
+		<name>Russia</name>
+		<description><![CDATA[<div>Home to VALORANT agent Саша Новиков,&nbsp;<br></div><div>(Sasha Novikov) (Sova).<br></div><div><br></div><div>Originally from&nbsp;Severomorsk, in Murmansk Oblast, Russia, Sova is a remarkable archer who gained his skills from hunting and tracking in Russia's frozen tundra. His skills landed him a position in the VALORANT PROTOCOL.<br></div><div><br></div><div>Sova's voice actor is&nbsp;Aaron Vodovoz, who was born in Holland to Russian parents. Growing up speaking Russian, he was a great fit to deliver Sova's Russian voice lines.&nbsp;<br></div><div><br></div><div>His voice lines incorporate some of these Russian words/phrases: "вот это да" (Wow), and "беги" (Run). It is likely that Riot will include more Russian voice lines for Sova in the future.<br></div><div><br></div><div><br></div>]]></description>
+		<gx:mid>/m/06bnz</gx:mid>
+		<gx:fid>0x453c569a896724fb:0x1409fdf86611f613</gx:fid>
+		<LookAt>
+			<longitude>103</longitude>
+			<latitude>55</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>13653953.70448104</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1R0p2RkYyL0NiMnJVeXBvY2x4YW1aTStJUFFhOUlpbjRVQUk4LzMrWG9Qelo2aC8rcVp6ZW9mbEM1QmNYOGZoOHJnTDAwMllLUFFuKzA0WG0ycENuNXZPVzJiRktTQXgrNjFNREVOY3puL2F5dmVLSWN2Y2xnZWszV2VpeEI3VlFlc1hIcEE5Rms3d29aKzUvTytlQ0crb1F3U1ROR0pvbktpWW15RE02N3lVN3ViRUhFRytjQUs3Q0pSaDAyWE8vS2loMys0VHBOamthYS96WGpuZHQydmFnVHIxdENIQzhnZjFCczNySzVQNnFaZyt3PT0">
+				<gx:ImageUrl>https://doc-00-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/g5ive1ba242a7qbmiulravn9q0/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuEnzXuXVxjy1let8q9dNf3q-BcWM7HYe91PXhdFZ_G439DIHiZeF6xH8yYgYfKmaoMxIu8YCvFmbObqOfV5kD7Yr1ke8v0SwSnT6fKMKN4tPBxfcbgF2sbdiPFR3fUaMega8RnPNZ-Y5C5QFoGz0lt2uBMTIpDVqiLMtr1ZOXF7ZlFBNSDnmN2Li8zkvagiz5M?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>105.318756,61.52401,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0366B84F17251835238A">
+		<name>China</name>
+		<description><![CDATA[<div>Home to VALORANT agent <br></div><div>魏玲瑩, (Ling Ying Wei) (Sage).<br></div><div><br></div><div>Sage is a monk from the&nbsp;Shaanxi province in China. Her wisdom landed her a position on the VALORANT PROTOCOL as well as her healing powers.&nbsp;<br></div><div><br></div><div>Riot struggled to represent China in their voice actor selection, hiring&nbsp;Naomi Yang, a Beijing-born, but English raised actor to bring Sage to life. Riot decided to opt for her to avoid using a "stereotypical" Chinese accent, which takes away from Sage and Chinese representation. Sage does have a slight accent, but is mainly white-washed.&nbsp;<br></div><div><br></div><div>Sage also does not have any voice lines containing Mandarin, Cantonese, or any other Chinese dialect.<br></div><div><br></div><div><br></div>]]></description>
+		<gx:mid>/m/0d05w3</gx:mid>
+		<gx:fid>0x31508e64e5c642c1:0x951daa7c349f366f</gx:fid>
+		<LookAt>
+			<longitude>104.13743495</longitude>
+			<latitude>35.78028695</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9656058.42695931</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1RkV0VkVuWlFRR2FHWkFLOS8zQXFoRlREMmJPUU5oUy9Gc2dqQyt4TEtUUTI0eklLMWtBY01BdnRpUnNrZnc5MFh0ZnJ0aENIZFNEOUhFbzZlSkJUZHF3VHNoMWFDRnUvMFZ0TXRValQrdDJQTS85ZXdSSnZFMXEwUGRNQjhjazF0OFR3d055bWxRZVpFd1ZlR1FxSEhYa0FWNVE4R3NIQ1Vab09VdXZ0UGQrR3MxMnR0WEcrQ0NNU2ZXSFIyZFNzditIcEtXWXJqdmtEQVBheTlCRG5nV2RoM3BpaGYwVENycklxcmtZQStmWU1vTk9BPT0">
+				<gx:ImageUrl>https://doc-0s-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/v583ndv8rge1hcik750a9icn30/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuGF97P4FR3oi9_c7VzvMThz6FY4gfn2MI3dznO_3yN5J0hOw9JPSjmhFzZvHna-duOSMCzGOTQR0c9Db54bltnprdnNUfdk4oy494VbIOdaxIpD1vMmv_cZmBqT1a5WKp5GwhIhf-f2y1lGB9Wtp5mpXKU8vR6mM08wRyZj9W92FlJV15QIWv8ARUgcE8h5U1Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>104.195397,35.86166,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CF408B8C12518356B4D">
+		<name>United Kingdom</name>
+		<description><![CDATA[<div>Home to VALORANT agent Jamie Adeyemi (Phoenix).<br></div><div><br></div><div>&nbsp;Phoenix originates from the Peckham district in London, England. He was a troubled youth until gaining his Radiant abilities that led him to join the VALORANT PROTOCOL.<br></div><div><br></div><div>Phoenix is voiced by Afolabi Alli, an actor from Britain. His British representation is most noticeable in his accent- which is spot on according to VALORANT players from the UK. <br></div><div><br></div><div>His voice lines also represent aspects of trends among British youth like drill rap using sounds in his speech like&nbsp;"Skrrr!" and my personal favorite line&nbsp;"Buy stuff, ka-ching, go skrrr, then we're done, yeah?"<br></div><div><br></div><div>He also incorporates many British slang words like "gutted", "fam", and "bruv."</div><div><br></div><div><br></div>]]></description>
+		<gx:mid>/m/07ssc</gx:mid>
+		<gx:fid>0x25a3b1142c791a9:0xc4f8a0433288257a</gx:fid>
+		<LookAt>
+			<longitude>-4.4737716</longitude>
+			<latitude>54.55127985</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3451562.357642844</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1RTBVcUp0QWRabG84V2IyRlU0YkR0Ym0yOThXUmFDYlhNRFVDZ1piaHZQWmVvaVhFazVKRXhaWExZVENqL2dpdlp4S0RlalRSVVVWaStIcFIvcHhBdVZSYjUwM3IrRFh6T1F5bENDVlhqem9HN2c3R0M4eUE1dS9PeksrYUlMS24vdjl6KytYQTdKdFJHTThsZEtDMGtsVTBkZzMvY2R0cDB1RldKR3lFdkczNHRtcGJobVRhbjU2OTNacitIbUo4SitqQkF1RkJEYVQwcTdPUWJwKzF5UCs4VmlMWFZNbVljZXZBVW9XKzFnZHErcTd3PT0">
+				<gx:ImageUrl>https://doc-00-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/6608906bni7l0e7auk0mdont7g/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuGDZFa1LaU5i1Gf7Z22DPbzwxORGO2cXylSNXtfnHfm3NaA_qKNYO_Um-_tofWZGuRSO3R4GwCN-iYjaMtxjJLuzywK6s9gyIV_tLZbDmHF5spijaSlATqxVKZwsSi2WThzBzs6pd2VZbHrqmY4kdHExdFUEuSteqOCOtSLBwQM93guXneP3YZTwNmyqs45OP4?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.435973,55.378051,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0347D4D38F251835C904">
+		<name>South Korea</name>
+		<description><![CDATA[<div>Home to VALORANT agent&nbsp;<br></div><div>한선우 (Sunwoo Han) (Jett).<br></div><div><br></div><div>Jett is believed to be from&nbsp;the Insa-dong neighborhood in Seoul, Korea. Before her wind harnessing powers caused an incident causing her to lose her job, she worked as a chef. Due to the power of her abilities, she was quickly recruited for the VALORANT PROTOCOL.<br></div><div><br></div><div>Jett's ultimate ability involves the use of kunai knives, originally from Japan, but common in Asian regions.&nbsp;</div><div><br></div><div>Jett is voiced by Korean-American voice actor Shannon Williams. Shannon claims that Jett is Korean-American, but that has yet to be confirmed by Riot. <br></div><div><br></div><div>Regardless, Shannon's experience with the Korean language allowed her to incorporate the language into Jett's voice lines.&nbsp; One voice line incorporates "달래" meaning comfort. The community hopes to see more Korean voice lines in the future!</div><div><br></div>]]></description>
+		<gx:mid>/m/06qd3</gx:mid>
+		<gx:fid>0x356455ebcb11ba9b:0x91249b00ba88db4b</gx:fid>
+		<LookAt>
+			<longitude>127.8733</longitude>
+			<latitude>35.81905</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1206418.509334386</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1SFYwVExvNEVqTXM1R2hpZ2pSa1VReGkzK01SSHk3U3NZV2ZqTUpmZUx3VkhCWVN6QTJ4ZnlKa05rY1N0aktKNTI2WjE4YUxNN0lHZHIyMFMyK0Vha2svZjlrMkhCR3R3bTRKUHF3ajgySXdDVHl1YkZ4Q2hvYnVUbWhnMlc3QlRPT1BMM1J4enFPbUdWWHlWcUluL3lkdGx6TFdmUnVFOE9US1U5ZldlU09TK2dPb2xzcS9MMzFJRWlwMFpIbkRmMThmWk51eFpnT2VQUVpWaVIwTzByNzRDT05IUHM1UkVuZTdnVCs4bVJtR096dHFRPT0">
+				<gx:ImageUrl>https://doc-0g-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/24cpi4tol3j1bnigqsni2vqelg/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuHxWHF2lgvf6PzqprXf98_oT8CC6LteG9bJUgHF48-3WwugtqdLX4H9A9b5Vcz1hTEtaJhEVMSLeQh01S8GsqkmLzwkPAbaIYbG-OgMllvqAuHfgETL0DbsQ4A9_Sw4Oozc2-ajk2iY4UVPK6SAobbM2TH5h8FS8xVpzFPTkrhTbmiZy2gyMCVpzQ42IL4qWhs?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>127.766922,35.907757,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03C33D9CDD2518365855">
+		<name>Brazil</name>
+		<description><![CDATA[<div>Home to VALORANT agent Tayane Alves (Raze).<br></div><div><br></div><div>Raze is from Salvador, Bahia, Brazil and engineers weapons combining explosives and paint. Her craftiness and dislike for Kingdom earned her a spot on the VALORANT PROTOCOL.<br></div><div><br></div><div>Raze is voiced by Carolina Ravassa, a Colombian actress. While Raze's voice actor isn't from Brazil herself, she is able to convey a lot of the Portuguese language, and accent that a Brazilian might have.&nbsp;<br></div><div><br></div><div>Some Portuguese words and phrases used by Raze in her voice lines include: "minha família" (my family), "Oxe" (surprised&nbsp; expression), "Vamos, gente" (let's go people), "Tchau" (Goodbye), and adds "-zinho" to words (like squad-zinho) as a form of endearment to represent the word little.<br></div><div><br></div>]]></description>
+		<gx:mid>/m/015fr</gx:mid>
+		<gx:fid>0x9c59c7ebcc28cf:0x295a1506f2293e63</gx:fid>
+		<LookAt>
+			<longitude>-51.31668000000001</longitude>
+			<latitude>-14.40865685</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11528085.54263295</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1RUJuUS9vRnBKWWRzRm84M0MxNTlISG5ETTRwRExDenAwWFdnT3dZdmFpaWlFeisxS0NWQy9vbkw5T2h1MWpXSHVDM1JldUVHMjJ0NXcyeUhndEsvUlc5bDIxbUk2d3V1VDBub1k3dWZ4bHNBTG1rbm9EOVBnUWxYZ29rc2k1UWQvTTdSL0RhMmt6cHJmSGJ1NW5rU3A2N25RTFkxM2FtSngyQnh0K2l5N3Z1dkp5dXlJUS80WVE3REJqWmQ1eWFFdTBRRmt2M3I4RUQ0UWMwRnc2eWRWOTZ1cUcyaW44eHVWMzhOWXl0VGdBTytIOXBRPT0">
+				<gx:ImageUrl>https://doc-0s-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/0gpf8376bmr485uhjbklur0vn4/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuE5fhjlI0fqKwBAWQmOLDTRvDielUrlVWJE2D7KJtTCIQtjMahLyJH4fduepiIMGnnogdMaUCXJ4TPNvHzYt07SVbRyvZHwsgH_EQIHZNzOCB38_8-cjfeGA69NCxw4D9XB-VbR6rkjwixVpFnvl6yEUnpkr8dMkTQf8R1l7wiN1_bEvTwHtbZ7j9yfKroXYZA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-51.92528,-14.235004,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CE5147939251836A3F3">
+		<name>Sweden</name>
+		<description><![CDATA[<div>Home to VALORANT agent Erik Torsten (Breach).<br></div><div><br></div><div>Before joining the VALORANT PROTOCOL, Breach was a criminal in Stockholm, Sweden. He was eventually exiled from Sweden for his crimes, and although his criminal records were sealed he still may not return home.&nbsp;&nbsp;<br></div><div><br></div><div>Breach is voiced by Norwegian actor David Menkin, who speaks Norwegian and English. Swedish and Norwegian are very close in pronunciation, but are still completely different languages, especially in their written form.&nbsp;<br></div><div><br></div><div>Due to this, there are very few Swedish words and phrases in Breach's voice lines. The few instances include:&nbsp;"Hejdå" (Bye), "Ja" (Yes),&nbsp; and "tack tack" (thank you).<br></div><div><br></div><div>While his voice lines contain very basic words and phrases in the Swedish language, the community hopes that they expand his use of the language in his voice lines.</div><div><br></div>]]></description>
+		<gx:mid>/m/0d0vqn</gx:mid>
+		<gx:fid>0x465cb2396d35f0f1:0x22b8eba28dad6f62</gx:fid>
+		<LookAt>
+			<longitude>17.37855505</longitude>
+			<latitude>62.0329754</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2790911.15563538</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1RW45OEI3K09YN3VCSVpzSEVZaCs0SnpVZERtcVN2K1Z4NWlQSVlZenB3czVjMm03QThCbFh0dnpHeW9adUFxVU9VaFNKdzNaOUlZS1RiMHdwNEU4Szk3TjQ5OTdOTTVLeHJLV0FCRWk5Z0d2eTIyTXB0bTlvdnNmemxLNVhsTFdOeDRFR1hEYmRKSXVnTjFwMTd3WTlHeW9LaWovS0VLVUVqZmFTMjlhbG5rVTcvTzZSMWNJV0xnemoybTBUOEx6cENrOHpTZVFZb1RlV002S1ZUNTNzUmEvSFVuZm1VR1RPbFlQbTVFbjFPcE16ekFBPT0">
+				<gx:ImageUrl>https://doc-0k-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/8iong6hf4rmr0a423o6fie1h90/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuGyqzLncbvX6mmqLKg3xrWGZOoFlziJx6CgpdSjjNfadF7HJtsZmUV-HiroAhu_232w9a4UWO9Ha8izIen5nuYqvrwSq-9rZaFwalyYLoT7zcMLAm4kQ1ccXtxxBRSY3FLK9I3sxLffK4oc2KMqgPH3JNydGi1rssOaK1kfIaVq-DWrjw4LyosypOYXSwDuO2U?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.643501,60.128161,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB00CDF68251836181E">
+		<name>Mexico</name>
+		<description><![CDATA[<div>Home to VALORANT agent&nbsp;Zyanya Mondragón (Reyna).<br></div><div><br></div><div>Reyna is from "the heart of Mexico" (likely Guanajuato). Little is known about her before she joined the VALORANT PROTOCOL, but we do know there was an incident with her younger sister, Lucia, that made Reyna an angry and vengeful agent.&nbsp;<br></div><div><br></div><div>Reyna is voiced by Karina Altamirano, a Mexican born actress. Karina does a wonderful job incorporating Spanish into Reyna's voice lines that give the character strong Mexican ties.<br></div><div><br></div><div>Some examples of Spanish language in Reyna's voice lines include: "criaturas" (creatures), "Violento. Me gusta." (Violent. I like it.),&nbsp;"Cariño" (Darling),&nbsp;"Pobre de mí"&nbsp; (poor me), and many many more.<br></div><div><br></div><div>Reyna has more voice lines than most VALORANT agents, meaning there is hope for agents who have less lines to get more added soon.<br></div><div><br></div>]]></description>
+		<gx:mid>/m/0b90_r</gx:mid>
+		<gx:fid>0x84043a3b88685353:0xed64b4be6b099811</gx:fid>
+		<LookAt>
+			<longitude>-102.62050005</longitude>
+			<latitude>23.5540767</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5455398.278420708</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1SHF3Z24zOFFXZm1rYzUxTWxBZ0c4R2gzUzlwNVB6N1NZRWo3bldOZTVJYlBIVDU4SWgyS2JJaW5ZcnphL2Y5V0ZyRjZJVzJSYXFJYy9zb1hYdDhoNWdVelFnNkIvSGZxWm5yNFhQaVBHanpSajY1dmxPbGtnM244aXhYVitzUTJxWlVDSFRLcUphdEVwSWRpRzdNaFRKeVRXZFFEOUpQQTlyNDZZcWNxUERmTk9FMm55bFdkUXFaVm95M1JQZTRKRXV3SDRMWjlkeVJnUlk4QmlFNmhhYnhsUFN4MEJ5cVloUWtzVDRKSmUxelFmZWNRPT0">
+				<gx:ImageUrl>https://doc-0g-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/34rpdn2o84rhm7m63hmtdlv4ps/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuFyBNMa4lUDqjRl1D7nARvCVLJjQq6Xke69yVfIsflAQhVOkt-Yay-H6zWnSZo_hrpzdAGwoJQftv2Xs2QLj-9AtNi3hO9wYlSwhUjArj8gD1oUKIor4wM9W9qeb64cjYaiyURPU2MQJ71jbhyl66yD-oyYu3CTrGR3cU-aJsW76TmC0AH5OVLhUC59XoDnagI?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-102.552784,23.634501,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0535B05994251833A912">
+		<name>Germany</name>
+		<description><![CDATA[<div>Home to VALORANT agent&nbsp;<br></div><div>Klara Böhringer (Killjoy).<br></div><div><br></div><div>Killjoy is a brilliant inventor with German heritage. Originally from Berlin, her inventions landed her a big job with Kingdom Corporation where she made technology for the company that was used to harm others.&nbsp;<br></div><div><br></div><div>Killjoy is voiced by Eva Feiler, a native English speaker who does a fairly-well German accent/dialect. Riot would have represented Germany better with a German voice actor, but many Germans are happy with the representation.<br></div><div><br></div><div>Killjoy's voice lines include many German phrases like :&nbsp;"Meine Güte!" (My goodness),&nbsp;“Auf Wiedersehen!” (Goodbye!),&nbsp;&nbsp;"Freundin" (Girlfriend), and "Scheiße" (Shit).&nbsp;</div><div><br></div>]]></description>
+		<gx:mid>/m/0345h</gx:mid>
+		<gx:fid>0x479a721ec2b1be6b:0x75e85d6b8e91e55b</gx:fid>
+		<LookAt>
+			<longitude>10.45411935</longitude>
+			<latitude>51.17580574999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1865512.491589788</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1R0IwWmVFdE5MNEJaMC9rY3FMZ29nMjZyVnZUb3cxMXV2MW9oa1JzaVo5QkR5RHVsKzVERkF0aHArditldktuWkFYdWRLSFRzVlcrWTBqMnRiamtYTUllZHorK1M2WS9lWnF3VUhrbUxPZXF2aERUSzBHSU5kSmJ1bjNFMFBTcFVwNlY0cmxOd2t3MnkrTkNuc0MvN1VrZm80TUdMOHQvUDc5NlNndmEvQUlCQ2k5TlN0ZExzV3d4ZStRSy9tQTRXQWszVU5tUVNwNnEzOXovdnUvNERGWElhbG5Zc1B1TE11QTV1OXRnQXo5SjkzVHZ3PT0">
+				<gx:ImageUrl>https://doc-0s-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/8ka0rdbqrk3tngrlqcrt1gald8/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuFiKe_vdsQ9s7b8uBn2H9QtCY_K2sgPBxpV_kYwvfkd1zIkZd7MRi_XDGVsgfGPT-3UIKpx0NEoHpRDPK9LTmL8pog3qUaZeKp8zvcJzW3ggOp_KJ6gQlvHRgRGCBJVJZG90C32S6OKlhcnMGcSHS_FH9EMTvRbKWk0P792R3eDc9kWGuQolAupes_iVnrUSb0?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>10.451526,51.165691,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E0BFFE6D7251836EF7D">
+		<name>Australia</name>
+		<description><![CDATA[<div>Home to VALORANT agent Kirra Foster (Skye).<br></div><div><br></div><div>Skye, driven by her desire to protect her homeland of Nimbin, Australia, from Kingdom Corporation earned her a spot in the VALORANT PROTOCOL. Her conservation efforts gave her a unique connection to animals in which she uses to defeat Kingdom agents.<br></div><div><br></div><div>Skye is voiced by Miranda O'Hare, an Australian actress, which makes her portrayal of the agent extremely accurate. The notorious Australian accent paired with popular slang like "no wukkas" (no problem) and "good on ya" brings Skye to life.<br></div>]]></description>
+		<gx:mid>/m/0chghy</gx:mid>
+		<gx:fid>0x2b2bfd076787c5df:0x538267a1955b1352</gx:fid>
+		<LookAt>
+			<longitude>133.41701195</longitude>
+			<latitude>-26.1772288</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10681679.31797187</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1R1JlV0dnblhuQ3Vzb01DOWVSZU53R1dYVlI0MDA1VitWRGRHTmNRNGNZRTQxOThWN2xBWXlncTJRZnFJRmNTSnpKNlcxTitjb0tMeG15a293RUhDbENES000QVhWZUY2MkpjaklScFc5RFdGdk80YlNZaktyVGIxdDBjU0ZWL1gwKzNoeWdoUjFWN2p1a3h6TnBaanBEZCt1dVhvanVxRjJRNzBnYVFNZUxKQ25VOHFWYW1VQzV3N0QvQ09FSVEreTRoMlNDdHhqMjhta2VaK0dzSlMrNGpSRUFXRVpCMWRaRE5hNVNpYy9tZ21KR1VRPT0">
+				<gx:ImageUrl>https://doc-10-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/9e4tsf75k6n45tsatibtb529no/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuEXhMGVNcDiolVl4A-RihZbTrnZvPb37wMn9gnvQIeTqwpRk-wxWSoVstHMRyi_9b87KkGSfw4M12tuDPI8flkcWknlciYr0xHZtlqYrJR0y8RQiuBORHnL5bH3wfZaiThH29xSQ_CaSDp9RWeXZ3LZjcua1doIoWrV1u0hCBNGhJRHvI3IiHBHco0hkUAwCNQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>133.775136,-25.274398,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05B3259B5A251837325C">
+		<name>Japan</name>
+		<description><![CDATA[<div>Home to VALORANT agent&nbsp;Ryo Kiritani (Yoru).<br></div><div><br></div><div>Yoru is from Tokyo, Japan and joined VALORANT PROTOCOL after uncovering his samurai descent and a mask that allowed him to see into a different dimension.&nbsp;<br></div><div><br></div><div>Yoru is voiced by Japanese voice actor, Daisuke Takahashi. His understanding of the Japanese language and accented English, brings Yoru to life.<br></div><div><br></div><div>Some of the words and phrases Yoru has in Japanese include: "ざこ" (minnow), "&nbsp;おもしれぇ." (interesting.), "うるせんだよ." (annoying.), and&nbsp;"くたばってろ." (drop dead.)<br></div><div><br></div><div>The use of these unique Japanese phrases combined with Yoru's style is especially representative of Tokyo, Japan.</div><div><br></div>]]></description>
+		<gx:mid>/m/03_3d</gx:mid>
+		<gx:fid>0x34674e0fd77f192f:0xf54275d47c665244</gx:fid>
+		<LookAt>
+			<longitude>137.1538646</longitude>
+			<latitude>33.5001886</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4962640.060283612</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1RmJydGdiN0tqQjRpY2ZNWjQ3UjFtQThIR1A1NzQ2dzUxemhpMnRoakdZdXlmeUFqSTBRUFVlaW9kWHpvMHUwR2MzY2FrY05uSXpoaE1SM05DelhOekkxTkFrUDIrQlFldVhVWFRsYzEyY09LT01PVCtMdFpvWUxuOWN2N3k5SUhrMTY1RXBWeGFES2JUOEFvb3ZBT0NNb0cxbHhZdkdMdEtXY09UUTRFWWkvQW9tN203TXVnZ0hzYWdFZDF0cDRyWnZ6SkQ1R2hmYkNDSTF0Z0hJWHpkdmw1Q1lCN1g2Rk5YaHVXaGlWM0ZjNW9yMTFRPT0">
+				<gx:ImageUrl>https://doc-0g-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/52oleii037ul670i9uj5llj178/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuEECUv7EH23Pz3vmWdXQttN4IiNJFY1iOdM3Rbf1smD3St-LH9EyLiN6FpUFSTMrL3pCnh8A-sG2RJ7pnVvwW0V8OiUYhI5XB2hUWjeEvZ0DBuYsNqRvMIEcHq88E4jrrvQ6YVqFm6QepfcgAeWbXhcURof3wIUVH7u7IjOZBZdlGqgg-11gQmCqqRAHfUljxk?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>138.252924,36.204824,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="057991642B251837710C">
+		<name>Ghana</name>
+		<description><![CDATA[<div>Home to VALORANT agent&nbsp;Efia Danso (Astra).<br></div><div><br></div><div>Astra is a radiant agent from Accra, Ghana,&nbsp;that has powers harnessing cosmic energy. She joined VALORANT PROTOCOL to protect them from astral threats.<br></div><div><br></div><div>Astra is voiced by Ghanaian-Australian artist&nbsp;Effie Nkrumah.&nbsp;<br></div><div><br></div><div>There are many indigenous languages in Ghana, but the official language is English. Astra's voice actor does a great job of incorporating dialects as well as a proper accent to represent Ghana through Astra.<br></div><div><br></div><div>Some instances of Ghanaian slang that is used in her voice lines include: "chale" (friend), "dem" (them), "&nbsp;Money dey falaa" (there's a lot of money), "Yawa" (lame), and&nbsp;"Akoa wei paa'!" (this dude).<br></div><div><br></div><div>There is a great amount of colloquial Ghanaian representation shown through Astra's voice lines, and many more instances not mentioned above.</div><div><br></div><div><br></div>]]></description>
+		<gx:mid>/m/035dk</gx:mid>
+		<gx:fid>0xfd75acda8dad6c7:0x54d7f230d093d236</gx:fid>
+		<LookAt>
+			<longitude>-1.03040695</longitude>
+			<latitude>7.904465449999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1473672.81801082</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1R1FXQWZzUDM3YU5Gb2hpVThnbU5hS2dQbUx6UGQ0eEJFUHI5emZMdUQrOWY3ZE5NK3VlSXZuYldINmh4V0dmU0pJVWQ0OW5HcVc2Qmh4OGppdWtOaG5nZFdEMElISFBLMG5Kdmg4OXZ4QWQzcmtyei9MQkw1L3lMMlYyMWJFS01YeEg2U0pQRVNGcG1QQ0tiVlVSWWQ1MXo3dCtLVWlocFVtU05HOUdHMVJWdVdxTEtka3EyeW5LV2tjOU50RVh1QklZN3hYLzB3VTM0THFOOTd1aU1sOThiNGp4cWZlaTVVcEt4YjNXakVsV0lBVkdnPT0">
+				<gx:ImageUrl>https://doc-14-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/nmo6tqg1sr49qpkk9vn1l30oas/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuHMCEe7b8ViVNHhGH6AoxFbzV7zCz9h3BXlrbCGgl6Cd5CH0djweC4QQW8GIK8GbFxnQf0Xrj15ST_FzEB3Zri49qCOnbhS1SgQLO8q4u9QzxbsmY9R_nvgZtJqq0lRlXNpITlzJOrsOa0hFPRaYDwtw8nHuw5WMfybZlbmElT0HIfR1cr9hEXcCXBdwJnPRPI?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-1.023194,7.946526999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B8D7DF38D251837BD26">
+		<name>France</name>
+		<description><![CDATA[<div>Home to VALORANT agent Vincent Fabron (Chamber).<br></div><div><br></div><div>Chamber is a Frenchman from Paris, and spent his time serving in the French military before joining VALORANT PROTOCOL.&nbsp;<br></div><div><br></div><div>Chamber is voiced by French voice actor,&nbsp;Hugo Pierre Martin who is fluent in both English and French.<br></div><div><br></div><div>Chamber's voice lines incorporate a lot of French. Some examples of the language being used include:&nbsp;&nbsp;"Adieu." (farewell), "Parfait!" (Perfect!),&nbsp;"Excusez-moi!" (excuse me!), "&nbsp;C'est simple comme bonjour." (It's easy as hello.), "On n'est pas sorti de l'auberge." (We haven't left the inn.) and many many more.<br></div><div><br></div><div>French influence can be seen throughout Chamber, his attire, voice lines, and agent cards in VALORANT.</div><div><br></div>]]></description>
+		<gx:mid>/m/0f8l9c</gx:mid>
+		<gx:fid>0xd54a02933785731:0x6bfd3f96c747d9f7</gx:fid>
+		<LookAt>
+			<longitude>2.051699950000001</longitude>
+			<latitude>46.21926495</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2058831.252990447</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1R3JwbXZVRzZxL1RQZzNSSEF0VThzMlBvdHN0cHBCUjlwZUNUQjVsbkNrOVhlR24vdTJoM2lkeC92UHB4Q1dQNmVHQ3JLbVdvZ0RWT3VITWF2NWNZVDBpaHd2WDd1T0o1ZHVvdWJYdFpwRG1zRVNqOHRlTXRLVUpVY2d1cFBhNGNtc2xadkdaWmxPL0NEK0c1QmNVUnhZUmF5MjdkdWI5dlhpNFBvTlNySG9SUXBlcnpPbEN3bHpvREUvdlBBQ2lsWmpEYjR0RHRMZDBHMmRRVFI2RWV0cnpLbzkzNllmOW9POGU3dyt4a3NuSWJGbC9nPT0">
+				<gx:ImageUrl>https://doc-10-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/0m682983eenevco8264nhlgs2s/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuGeks6DVz5dPsyPF6VPkmkBTPH6-H40wTgJ3K_dWiE81E2ybY5qLOGIXyti8vFWulA6u7gxUyf0kL7HzvdWsdBo_HpGd8DoSp9IO52ioOt9IrgUSh0E185Jo6SHKIoxoWLgp6_YVdFY1MeKgTBUzTT0G4olTWFAarQX2gFDjEOnyX_T6sm5otYRblYGfCqG_FA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.213749,46.227638,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="023BCB6808251838100E">
+		<name>Philippines</name>
+		<description><![CDATA[<div>Home to VALORANT agent Tala Nicole Dimaapi Valdez (Neon).<br></div><div><br></div><div>Neon was born and raised in Manila, Philippines. She is the youngest memvber of the VALORANT PROTOCOL who joined the team after inheriting bioelectricity abilities.&nbsp;<br></div><div><br></div><div>Neon is voiced by Filipino voice actor&nbsp;Vanille Velasquez who is fluent in English, and Tagalog. Her fluency in Tagalog allowed her to incorporate many words and phrases into Neon's voice lines like:&nbsp;<br></div><div>&nbsp;"Ingat ka" (be careful), "Tara na" (Let's go), "lola" (grandma), "Tabla tayo" (we're even),&nbsp;<br></div><div>&nbsp;"Tapos ka na!" (You're done!) and many more.<br></div><div><br></div><div>With the amount of tagalog lines, words, and phrases incorporated into Neon's character, she represents the Philippines well.</div><div><br></div><div><br></div>]]></description>
+		<gx:mid>/m/05v8c</gx:mid>
+		<gx:fid>0x324053215f87de63:0x784790ef7a29da57</gx:fid>
+		<LookAt>
+			<longitude>122.62175425</longitude>
+			<latitude>11.69783515</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2913815.553428836</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1RXh2NW9FbytPSVA3S2tKQld1eHloS3NIN1A1RlFsdkp5WnhscjJaejgrTGx0UmZmUHZJTTM5ekJrckJjbnJ6TDZNN1VEc1JNM2FwUVZRcjRjenRJQ3NZVHlDamJoRUxWZFlmNGZUQThML3h6OWJOYmI2TDhqTWRBOW9aUTJidVFIZHBuUjJPSm50K3dSeStuZzBtMzV6OVJtNm1pR1J4S2F5RXQrcjJDZmZYWWJxekFteDlmNWppaCtVcDFWSTViUWhrSkFzdWxCVk5Ub3p3OU9GUC9FME9jMzQzbU5pNUdDOUsyZ2ptWnhzdDZobC9HYz0">
+				<gx:ImageUrl>https://doc-08-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/2q6mncheoo4n65acuasa67cmfs/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuGRfkp3cyD51zz0DwoIr2ymbxI5uXplLxhBqPDOWII2tpA0BXQxfiEOP1SPnFY7vgMrAcAEmxKpgASCfP959uYAOy3u2E90hpxryovHTYoFu93rOc65YgH8Gtvj8JIz2YTS1UMwCuoi5nroUCgz1UM63zeVzBCzcjF8UYVNE0nsiE2WBVWI7qFiobRSj6gaGGy2?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>121.774017,12.879721,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00141FFCCC2518385B0C">
+		<name>Turkey</name>
+		<description><![CDATA[<div>Home to VALORANT agent Hazal Eyletmez (Fade).<br></div><div><br></div><div>Hailing from Istanbul, Turkey, Fade joined the VALORANT PROTOCOL after threatening to leak information about its members due to a believed kidnapping. After VP learned of her powers that allow her to make her enemies see their worst nightmares, they recruited her.<br></div><div><br></div><div>Fade is voiced by&nbsp;Selin Çuhadaroğlu, an actress from Istanbul herself. She was very excited to voice one of the first Turkish video game characters and put a lot of effort into incorporating Turkish in her lines.<br></div><div><br></div><div>Some of the Turkish in Neon's lines include: "Hop!" (Hey!), "Hadi lan" (Come on), "Boş yapmayın" (Stop messing around), "sakin" (chill) as well as Turkish expressions like&nbsp;"Yok ebesinin nikahı" (No midwife's wedding- similar to that's unbelievable.<br></div><div><br></div><div>As one of VALORANT's more recent agent additions, it is evident that Riot is going to extra distance to ensure that new agents have ample voice lines in their native tongue.<br></div><div><br></div>]]></description>
+		<gx:mid>/m/01znc_</gx:mid>
+		<gx:fid>0x14b0155c964f2671:0x40d9dbd42a625f2a</gx:fid>
+		<LookAt>
+			<longitude>35.17777245</longitude>
+			<latitude>39.0876459</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2309622.036643862</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1R1dNT3F1RjZaVDdsYnVvYU9BbGVZZ2NWRkhQTlBnNUhDbEpUTUJlZzR2M1VNcVc3TElpeUhRRFZYMlFiU0Flc3FwMVJtbWVGTzg0MlM1TzNIKzZhRWw5VzhSSVJOVVJoOExLeGdqQmlLQkY5bkdjdWF6bUdsWmxyYVpZVGhPdTR0T3B2bjR4bk05SDNwYzBwWUlWcngwZzQyb3R2KzFGMHllYmFCaHM1ZldTU2pvRGhHVldSUHZyei8rRWhHdGpyOGkrdW9WcXBOTlp4dUc3NXkzZkxWbHpqYXRocDZlNysrYkVPQ3BTMzl4YnlOa0RnPT0">
+				<gx:ImageUrl>https://doc-0c-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/gdhreu2bbdnis02sj2pelq5700/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuHMZwmGBMiMu0UJC2ZiNIsNHfMMJsuvVY6zWubbJJ5hRi17jo3_S04Qb3C-WM68CcN6Z1SlQROqKmtGWTEW51FCkVS8gJb2wH6nfDRt0iodEBn8JNldlKNMrsXuWPrCIWEGoqwofX0tfg_wZulItNmJyperdl_EnniDhIYRFfklhS247tP1r3VbrAZ__NBUmFg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>35.243322,38.963745,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DC8DB742F251838F270">
+		<name>India</name>
+		<description><![CDATA[<div>Home to VALORANT's newly announced agent Varun Batra (Harbor).<br></div><div><br></div><div>So far, it is known that Harbor comes from the coast of India and is in possession of a powerful ancient artifact that allows him to summon water. With his new powers, he was quickly picked up by VALORANT PROTOCOL and will be starting soon.<br></div><div><br></div><div>Harbor's voice actor is Indian-born&nbsp;Sunil Malhotra. While all of the voice lines are not yet released, there is evidence of some words and phrases in Hindi including: "Aaramse" (easy/no rush), "Shukriya" (Thank you), "Bechara" (Poor guy), "Chal hat" (Move out), "Alvida" (Goodbye), and more.<br></div><div><br></div><div>As VALORANT's newly announced agent, it is evident that they are putting forth more effort at Riot Games to include new nationalities and languages in the game.<br></div>]]></description>
+		<gx:mid>/m/03rk0</gx:mid>
+		<gx:fid>0x30635ff06b92b791:0xd78c4fa1854213a6</gx:fid>
+		<LookAt>
+			<longitude>82.75252935</longitude>
+			<latitude>20.98801345</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5556402.993564508</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B5B5199B830AC5D95CA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1Rk1VYXZwd2FqVzVndGIyMG96R1FwVzdqNjlUYThuRVlDT3VCQ2hqemV4RzN4Z1NnWkw2Wi9kTFk0cHlsdnFjc3h0c2dIQi82N2lGZnVOZndLMmI3ZnF6TTBVZnh2WGt5NlhqLzNhbjI5WFJwKytPQXNOZWJ0bnBKN3RJYUI2M1FjL2tmdi9Fc05jRmtqSnJ4dm9iUmFYUmd6cmtiZmpISFFTcUlZUE5BKzA4eGY2NHVManB0ZnBmT2xKWnd3OUErQ3dZYnV1Rzhnbk9ZaUpaWFFpa2JYU1l2bzY3bC9SOC9Halc0SHIvUHd4MmRtbENBPT0">
+				<gx:ImageUrl>https://doc-0s-bk-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/510i6ku2ptt1m0vk2n91cqccu0/1715256000000/hpXsk4xw1ixTQ4XX7QZRwr101bgGynOD/*/4AFclZuFp6z5MdLc3vUa4no8yUrDEYHGNNKtlFHVyWkfqzxVp7pPT_kfQzhELKvZnNkr0Sq5NDz6ALn68dShXbSDuZz8zCJXhdU8kjh7KCuBTUdHhC_vL7i22TAs8DC80wbieHKsJqNZOTSktRVqK7SI5W0mJ2tPrPXgJyzfp9A5O1VCRQcbO8z9j8aJgZDBOIsgZapE?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>78.96288,20.593684,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

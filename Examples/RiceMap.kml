@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1xL0rED_o8MNc5FzrReJvdph2iJimIMaj">
+	<name>Microplastic and Macroplastic Global Distribution (copy)</name>
+	<gx:CascadingStyle kml:id="__managed_style_1E9514D10530D36B1080">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff9882c2</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BE90D590730D36B1080">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1E9514D10530D36B1080</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_228F4F746730D36B1080</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_578E0DD66E30D36B107F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4DA581EE4830D36B107F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1A8E9DA66F30D36B107F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffa7d6a5</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_101DD7E82130D36B107A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2FA33B9C4630D36B107A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_337F2421E030D36B107A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_168CFD34C630D36B107D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2E092B3FEA30D36B107D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_3F5CADBC9A30D36B107D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5C5C67961230D36B107E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=00796b&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffa7d6a5</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0AA09B40A030D36B107A">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff70abc8</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00A2F8543330D36B107E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17756AFD1730D36B107E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_215C150E4D30D36B107E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_41EBEF0E5030D36B107E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=00796b&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffa7d6a5</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_223045D9D530D36B107F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffa7d6a5</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A2091D21A30D36B1079">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17E3F2133230D36B1079</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0AA09B40A030D36B107A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_337F2421E030D36B107A">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffc0bb7e</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2E092B3FEA30D36B107D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffab6a78</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_215C150E4D30D36B107E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=26a69a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffa7d6a5</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_228F4F746730D36B1080">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff9882c2</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17756AFD1730D36B107E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=26a69a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffa7d6a5</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B990318EA30D36B107C">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffa726&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3F3393503430D36B107E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_41EBEF0E5030D36B107E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5C5C67961230D36B107E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0FDBE66B8030D36B107C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B990318EA30D36B107C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_06867D86C430D36B107D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_008DE2D97930D36B107B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17CFCC09F630D36B107B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_23B471517730D36B107B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0A19B0A1F330D36B107F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A8E9DA66F30D36B107F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_223045D9D530D36B107F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_3F5CADBC9A30D36B107D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffab6a78</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_06867D86C430D36B107D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffa726&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2FA33B9C4630D36B107A">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffc0bb7e</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17CFCC09F630D36B107B">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff80ccff</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_23B471517730D36B107B">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff80ccff</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3D2AA3580230D36B107F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4DA581EE4830D36B107F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_578E0DD66E30D36B107F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_17E3F2133230D36B1079">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff70abc8</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Placemark id="0EF794D1F1252DC9C026">
+		<name>Microplastics vs. Macroplastics</name>
+		<description><![CDATA[<div><b>Macroplastics</b> are larger pieces of trash visible to the eye. <br></div><div><br></div><div><b>Microplastics</b> are smaller particles usually not readily visible to the naked eye.<br></div><div><br></div><div><i>This presentation will briefly discuss the distribution of both types of plastics.&nbsp;</i></div>]]></description>
+		<styleUrl>#__managed_style_0A2091D21A30D36B1079</styleUrl>
+	</Placemark>
+	<Placemark id="03D5661221252D71FF55">
+		<name>Plastic Pollution Emissions (by Country)</name>
+		<description><![CDATA[<div>From data collected in 2019, pinpoints on this map depicted in <b>orange or yellow</b> will show locations that emit the highest amounts of plastic waste into the world's oceans. <br></div><div><br></div><div>The majority of this pollution originates from <b>Asia</b>, mainly from island regions that are surrounded by waterways and have more access points to the oceans. Plastic production and mismanagement aside, these countries' geographical locations aid in the flow of plastic distribution into oceans across the globe. Whether plastic waste is well managed or not in these locations, it's far easier for plastics (especially microplastics, which are often too hard to see with the naked eye) to--accidentally or on purpose--make their way into flowing water due to geographical layout.&nbsp;<br></div>]]></description>
+		<styleUrl>#__managed_style_101DD7E82130D36B107A</styleUrl>
+	</Placemark>
+	<Placemark id="0E55BCDF24252D5CCDBD">
+		<name>Philippines</name>
+		<description><![CDATA[<div>As of 2019, the <b>Philippines</b> was the country with the most share in plastic pollution into the oceans. The islands are small and are surrounded by many coasts and rivers, so it becomes quite easy for plastic waste to end up in the waterways--and eventually, into larger oceans across the globe.&nbsp;<br></div><div><br></div><div>"The Philippines accounts for more than one-third (36%) of plastic inputs" (Ritchie &amp; Roser, 2022)<br></div><div><br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>114.8611072242091</longitude>
+			<latitude>8.317604323313233</latitude>
+			<altitude>171.0982448873864</altitude>
+			<heading>358.0689666545089</heading>
+			<tilt>0</tilt>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<range>6430049.974733593</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_008DE2D97930D36B107B</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1RVo5cUYxSjIzdDJCZFozNGV3VjFseHl5RWQyekNJRHFqdUNJL2pLd1Q3NWpGTVJ0dXZMODBJTERkcTFKSFVFeTA3bzRCV3dyZE85cFl2dThIbWh5RmZ6cCt0aTQ0VFUvMHZqNWZLRXM3ZUhFbGNwR2VFK2NkR1dOTmRBMzBFQXVqd3RpdzEvcUFaQlFnc3dlc3Njem93ZDNYSDczeTk3NjZ0WmEyMURvNHNyL01iM3FKaHNsZzYvK3JzNFhsZUNiTDlVRDFSenBhaWZreitMN05UTnF5bk53bGd6bnJCKzgrUVJwcHFjNHMycklpeThPRXVxU2p1RHJQbTlmeUo4SU1RRE4rTE9yakozdnFGMmUyVDBYaFhMTmkySWY5eg">
+				<gx:imageUrl>https://doc-04-78-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/lo1d0e1mp1lh7qeo26l258rh6g/1715904000000/HNZtT0pAMPyIuFa-TocA7LxOyeg287vr/*/4AFclZuGVeMeBLEVtJxPtGWL-VwXQ90jrBP9I1dB2r2CMYlToNCh5Z_C5DYR1YEppxoOsCQhdfmRG1WTtqELrRyP-xGtYouxeHL9dBiUcjqvUDaYK0rhhGF_dV_qfkmxDJA25WwGACIGK7E1bjOetnp9V-T1vTLsf0ZAMOFXpBVAgeitLs9GeO3-_FLuC3JzesdtPpnrAkAF6cPQZ8d1MkvQSrthUD6sAzT8htUhC0PztnOlPNe1kyw?session=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>123.010989010989,12.50394402797749,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0787497C90252D69E44C">
+		<name>India</name>
+		<description><![CDATA[<div>As of 2019, <b>India</b> is the second highest contributor to the oceans' plastics pollution and distribution, at 12.92%.<br></div>]]></description>
+		<LookAt>
+			<longitude>80.19546195945482</longitude>
+			<latitude>11.45768360621835</latitude>
+			<altitude>1544.55095598762</altitude>
+			<heading>358.0689664367893</heading>
+			<tilt>0</tilt>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<range>6428676.828428507</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_008DE2D97930D36B107B</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1SFpMQ1BZTytMcCsyZ1pRMjVNWlVYQThEbG5xaDZCTGJJUWx6TEZXVlhPQm1sa2dKYThUcVExc3lhNlVTOFd2NkpOblo5ZkJVMStjM3lqcWtKWjM4Nm51Q3d0ZmpWOVVoby95Yk03YzhEOVhNajJJVVZIenVUdy9LYldEaGVWbVlNOWRkU3hoWWZYN2ZKZlNUR0wrNWtYNU55Y2NDUkVvMVRaWEFmVU1kcHRoTDZhazFtamwwL0NJc0JDOWZGR1RYVVBYcTJST3p1NzNxZEVyTVhGUkVMZ0hTdVZZL2VocEx1NnJEVTlHaVN2eTdvamZUVVBVMnBFcXYvTjNHQ2g2NGxUbHpZNFF0MkJlSXRUS1AwT2NPWmJTUm50NHhaVg">
+				<gx:imageUrl>https://doc-00-78-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/683qcj1mq68tknghketrli3e70/1715904000000/HNZtT0pAMPyIuFa-TocA7LxOyeg287vr/*/4AFclZuGJmqJGHOLvjtCiYDY4lO68VFL4XyrIkeTTXquxCPYDB86n3Dka0RUxmEqk7FgCnDUifPivALJq_7ccq-Mw6gOaIi_pH9-oknSxvAzaqyGOhD595U6StLNa6HZ33KAWIEl6b6oyD49nM3PGSj3bAzjr1Png16ck5Bzgau9zq2BH5M4rGq88tcd3U5QGfSQ72D1ThIa7_WeVfH2xi7nvNht_vgGhVAMtPQxEK3ucUnG503mXhw?session=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>79.61059341394633,22.86996279559747,-476.0030483874164</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E594DC32D252D6E8438">
+		<name>Malaysia</name>
+		<description><![CDATA[<div>As of 2019,<b> Malaysia</b> is the third most contributing country to the ocean's plastics pollution, at 7.46%.<br></div>]]></description>
+		<gx:mid>/m/09pmkv</gx:mid>
+		<gx:fid>0x3034d3975f6730af:0x745969328211cd8</gx:fid>
+		<LookAt>
+			<longitude>109.6181485</longitude>
+			<latitude>4.140633999999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2967850.850123655</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_008DE2D97930D36B107B</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1RmpTNU9tMFdGM1VOT09xMjVpbitTK3NzREgwVjNwaHRZVVJWSG1BLzR3V1Q4Z2VMeDQ1Z0xqQlZJMU9vVkJWTkc3TGRjb3lDQW5OVHY3U20zbE1TdzNvZzRlblJyKzNwNTVWaUhxOVlaODkzYXRaWWZrMTJJVnM3ajNSSnhCTFMvTkg0ZXhuNVJqN0syTE1WUE1EMzlEU2xWQ2d5eE5TVjZXMy9mOXQ3dmh6YksyVzdhOUVWOUExQXNEYlJaUmo2b2d2ZXhnMkNGdlZMTmVDSEFCODE0d29XL1NBalp6WjBFSGNnWXVCRjRxckdGRDJ6U3NzNzJjdmlsQmJDeDdjZGdMRUxYeGVnRTlHdVRaQ1NOREZzU2tGVDU2elN1MA">
+				<gx:imageUrl>https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/95o13lu3us7nptmm6elpg3ctgs/1715904000000/HNZtT0pAMPyIuFa-TocA7LxOyeg287vr/*/4AFclZuGXMTMInt0G37CmqpDZEv6lyiPGLz0fi4Bc_0yegg_OeKJW-LsupPn8TRikN--FuZ60FTFpMql8C-d_86MIVIr_ujx7d2HCU2I7-xffwTTUj7DQS9m7qkdE4gAgKhZSoS2SGKtVE4gWFet4ld6tu7MLReGmAxP24R5kFUFvDcHOfhg0qil7bFwYsQurLP7_c1FsosWZQrWGXVJGt-pDWeA0ifgxnOpFRRtNzMZ4O7JMcSJjHQ?session=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>101.975766,4.210484,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08B7E664A0252D7B2895">
+		<name>China</name>
+		<description><![CDATA[<div>As of 2019, China is the fourth most contributing country to ocean plastic pollution, at 7.22%.<br></div>]]></description>
+		<LookAt>
+			<longitude>123.98525415748</longitude>
+			<latitude>10.2758975784619</latitude>
+			<altitude>-969.6178789576589</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00080198506916</gx:fovy>
+			<range>14169435.96347809</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FDBE66B8030D36B107C</styleUrl>
+		<Point>
+			<coordinates>103.7142091588382,35.65519526193339,3969.602776088409</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016D96CA48252D7DB105">
+		<name>Indonesia</name>
+		<description><![CDATA[<div>As of 2019, <b>Indonesia</b> is the fifth most contributing country to the ocean's distribution of plastic pollution, at 5.75%.<br></div>]]></description>
+		<LookAt>
+			<longitude>104.6116313925471</longitude>
+			<latitude>5.158846350221894</latitude>
+			<altitude>-2158.843265881386</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00080198506916</gx:fovy>
+			<range>14170625.31475782</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FDBE66B8030D36B107C</styleUrl>
+		<Point>
+			<coordinates>114.7514031131735,-1.845366629372128,-4573.498624961016</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="061C296CC0252D7FF250">
+		<name>Brazil</name>
+		<description><![CDATA[<div>As of 2019, Brazil is the sixth most contributing country to the plastic pollution in the world's oceans. This is the highest ranking country on this list that is outside of the Asian region.&nbsp;</div>]]></description>
+		<LookAt>
+			<longitude>-53.73036931147855</longitude>
+			<latitude>-10.0978356076281</latitude>
+			<altitude>168.2760027412224</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00080198506916</gx:fovy>
+			<range>10516863.75401974</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FDBE66B8030D36B107C</styleUrl>
+		<Point>
+			<coordinates>-55.71978021978022,-8.501597767207651,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B40F62E46252D816E0E">
+		<name>United States</name>
+		<description><![CDATA[<div>For the purpose of putting our current location into perspective, the <b>United States</b> is ranked lower on this list with a contributing percentage of 0.25% in 2019.<br></div><div><br></div><div>Though this number appears small, please keep in mind that even if the U.S. isn't the top most country for production/emission of plastics, there is still a large amount of plastics ending up within the region's waterways regardless. This can be due to numerous reasons such as mismanaging waste collection, influx of discarding microplastics, accidental loss of plastic waste during transport of exports, etc.&nbsp;<br></div>]]></description>
+		<LookAt>
+			<longitude>-94.71348564281023</longitude>
+			<latitude>30.94664774873741</latitude>
+			<altitude>-5416.018473166643</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00080198506916</gx:fovy>
+			<range>15863524.83803272</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FDBE66B8030D36B107C</styleUrl>
+		<Point>
+			<coordinates>-101.3956043956044,39.76602623556256,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FDAAC8519252D919CB3">
+		<name>Ocean Plastic Pollution</name>
+		<description><![CDATA[<div>Let's move on to the oceans with the highest amounts of macroplastics pollution. Can you guess which oceans/larger bodies of water harbor the most plastic waste?<br></div><div><br></div><div><i>Microplastic distribution is somewhat harder to measure, especially given their size. Some microplastics also originate from macroplastics via deterioration/wearing down over time due to environmental factors. For the sake of this, this section will focus on macroplastics only.&nbsp;</i></div>]]></description>
+		<styleUrl>#__managed_style_168CFD34C630D36B107D</styleUrl>
+	</Placemark>
+	<Placemark id="00D6B2C936252D4EEF00">
+		<name>Mediterranean Sea</name>
+		<description><![CDATA[<div><b>The Mediterranean Sea</b> has the highest abundance of floating macroplastics out of all other ocean regions.&nbsp;<br></div><div><br></div><div><i>(This data was collected across a span of 20 different studies and can be read about in more depth from the source listed on my webpage.)</i><br></div>]]></description>
+		<LookAt>
+			<longitude>19.92138151763238</longitude>
+			<latitude>26.15806640875852</latitude>
+			<altitude>929.7153901945479</altitude>
+			<heading>358.0689685967308</heading>
+			<tilt>0</tilt>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<range>6429236.567823887</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00A2F8543330D36B107E</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1RmFMVnVPWEhXMVRXZzlmazNZMEZsMjQrbUc0OVpBSVpMcFBOVkJBWit0K3NPN2dBM0RLSXFBdFRkREd5RlNqSTRYSTF0TWJYNzBQeWNYL3RQcWZjRzFKSm9vSzhibUtTQ1Y0SU9JejU2UWlsMERtTzlaUlNYd29pMVdscFBPRzNlS0NTQjFWalF3ckkvdzVzSzV6UWFmeWFnMXR2RCtxSlJxdTk4WjF5WC9lWVRHWWNUOFQreDN5cG9La3VpRE9mYnFoa2NhV1hwdDRLVHBQY2lHYzZ6czNBeUlHQTBvNy9CbnlmcEtPWExocWtIb0p4MXZzQWdaS1BMNGpkVGZKN2taWkpQYmRmTHRXWHd6cWMzVnByY25qR2dZRjZqQQ">
+				<gx:imageUrl>https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/0q8clu2ol3chtnv8p1vgi4ujc8/1715904000000/HNZtT0pAMPyIuFa-TocA7LxOyeg287vr/*/4AFclZuEWBAKReea1CvTBO72UAA6ePUpPWVTfXlNZBqJAS2nnKD6gj0xFqK0VCjzd52UmLkCy6BvxkBRw5s4UMnt3CXGqjqbWe3mQkm1suPvY3pOCwmwfvBvbKVhADcU51JN2DaCBGp1nSpEtVjPW0AI25rNW31Vz7Ujk7AFbBTvPduf6OKwqNLsysOQ9S25yAJ58oL-UuEkkgW9u1eJHdPBvr8J8PigMu8cUlI4CS0nrxUvt5iN65Q?session=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>18.13254144681886,36.65805025216876,-5044.404363382715</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D872F18EC252D5A7F38">
+		<name>Indian Ocean</name>
+		<description><![CDATA[<div><b>The Indian Ocean</b> is the second most abundant ocean region for macroplastic pollution.<br></div><div><br></div><div><i>(This data can be read about in more depth from the source listed on my webpage.)</i><br></div>]]></description>
+		<LookAt>
+			<longitude>79.46269662429502</longitude>
+			<latitude>3.016335351456578</latitude>
+			<altitude>-4417.348705412535</altitude>
+			<heading>358.0689669671519</heading>
+			<tilt>0</tilt>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<range>6434585.610648394</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3F3393503430D36B107E</styleUrl>
+		<Point>
+			<coordinates>78.69339550750563,-1.737846650202567,-14767.95920261381</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="080F2AFC67252D568C6B">
+		<name>Northern Pacific Ocean</name>
+		<description><![CDATA[<div><b>The Northern Pacific Ocean</b> is the third most abundant region of floating macroplastics.<br></div><div><br></div><div><i>(This data can be read about in more depth from the source listed on my webpage.)</i><br></div><div><br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-167.5215723892733</longitude>
+			<latitude>21.00789085239748</latitude>
+			<altitude>-0.3135542322406037</altitude>
+			<heading>358.0689674221907</heading>
+			<tilt>0</tilt>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<range>6430166.935204268</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A19B0A1F330D36B107F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1SHhhMEpmM296NDBLNTlLZ0o3eU5GU2oxM3lYWVE2OWRmQTZOUkZFMjNvamhJcG9KaDVlSXVFaVNaQlZwV0VPejZwZW02dkZQVmhNTEQzdytsL2ZqOFkxNWFTMFpTS3pyeGYrNC9JeWE4eWhWQmVLL0NiMlNUbThqQkZLMXpHK2JBYTdoVXE1RXdKQ29lS2JoV2dxRGNEVW5yNENQUVdyQTRJWkhuS2svN3lBcnVZYlRXY25JL1JBUDNlQzdoSURsRitZTjYybElldk1LUVo5Z2x0UHgrMjJCUWw0VXNVWlR5SEpHTnZNU3NNR0lQeG9DTk9GVzB1RkgxNzFPV2JIdUFsbG50ZG9GT3lDdVBPbUJKMS9lR3dhMnlkUXNMSQ">
+				<gx:imageUrl>https://doc-0s-78-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/qua1lipa5blua67css86avk9n4/1715904000000/HNZtT0pAMPyIuFa-TocA7LxOyeg287vr/*/4AFclZuHhPf1mYnP08Mtrr13NsQU6AGJg3OPHIfo6YclLElfRXFXo-KBbgJqr9T5aKQuUMuTggHpgoo0xhgzA3AqOWVgpLQ-yC_I8kC8d-38ptVJIWkwy9yI5ANLX3lcbhbGYgFBpFBpsDXidxUN3jBYIhgFhqgQv9bIsYkVNgZodbuWpsYJiuRt5hidNX0D0QVnC3zL-xvOBoaYvIb8_euF3K0ZTaRvbKkva1X5sufWEylPV0QNaUQ?session=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-156.8310894931256,30.46235127586678,-7690.423477036346</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E6C6C803C252D971694">
+		<name>Let&apos;s Talk About Sources</name>
+		<description><![CDATA[<div>By now, I bet you're beginning to wonder what exactly are the main sources of these plastics that are making their way into the oceans.&nbsp;<br></div><div><br></div><div>"At the global level, best estimates suggest that approximately 80% of ocean plastics come from land-based sources, and the remaining 20% from marine sources" (Ritchie &amp; Roser, 2022).<br></div><div><br></div><div>In the category of microplastics, the chart in the image above details sources of microplastic pollutions from different regions.&nbsp;<br></div><div><br></div><div>"At global scale, the key issues are, by order of importance (in % of global releases, without the
+source City Dust): textiles in India and South East Asia (15.9%), tyres in North America (11.5%),
+textiles in China (10.3%) and tyres in Europe and Central Asia (10.3%)" (Boucher &amp; Friot, 2017).<br></div>]]></description>
+		<styleUrl>#__managed_style_3D2AA3580230D36B107F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUZjbFp1SFBERnlDdHEyOEU3U0E2ai9Va000NEl5K1NUSm1XL1pQMkY0dDVBUm9mQ1FHcU1oUjlwWXJHZWxiWmV3ZzVBYkVOV1daMlZmZ285Uzh0MjFnNEttZnpoMytEalB6V3Nia3QxL2hycmFRZzUrRTIyZzBvWlpqZjNHQjRUR2tYK3I5UERRNTRPY09JOE5BcEdwL3ptcGVpeVRPaVdiSFkvMFBjNlRlSnRLcmVhVis1eFFUMHNuVzQ4QlY4aUxzRkVrdkR0cTJVTDdoTi83RW5xanJzdnFMUzQ4dWo0djNMSGtaUUNVQmthTmRUZnNucEZwQzZ4bjJIYTNGMkI5ZEx2TXpwN0FoUm1CeUZwS3NzMUkrVS9HbmwxbVR0blJ3WQ">
+				<gx:imageUrl>https://doc-0c-78-mymaps.googleusercontent.com/untrusted/hostedimage/e/9gml9uu5a6na3h1l339t8it0fs/uooiqb76m74q67bbr2rbja4acc/1715904000000/HNZtT0pAMPyIuFa-TocA7LxOyeg287vr/*/4AFclZuGduZfojJBz2T34kIp-sKWJ3ViJ9jYK8ppJlnHule7EurWRDQbPSjoeGv8pdNKv_oL_Y2XZJLZyc8d59VCFn7ePKIuo22-ObCHy1XqS7NnGAmgBeJsKsee_GO9soycy_vzjZMPFngz9k7ZkCscjv1s4fBHK5p6F4SN7En07p-zGCISBaOnJnybU-z_4ibb8R0OLspwlVHbvYPRqE0VKeMDvZXmAs7tnsEfudSk--KQjjuVbfg?session=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+	<Placemark id="0B03100EE6252DD159DD">
+		<name>Conclusions</name>
+		<description><![CDATA[<div>Asia is the highest contributor to plastic pollutions in the world's oceans, especially due to the islands being surrounded by water/having rivers throughout the region.<br></div><div>The Mediterranean Sea and North Pacific Ocean are the regions with the highest abundance of microplastics and macroplastics.&nbsp;</div>]]></description>
+		<styleUrl>#__managed_style_0BE90D590730D36B1080</styleUrl>
+	</Placemark>
+</Document>
+</kml>
