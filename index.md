@@ -51,6 +51,7 @@ In addition, working samples of student works have been provided for each patter
 ### Game
 
 - [Vee Kennedy, Bitsy](/Examples/KennedyBitsy.html)
+- [Keidra Navaroli, Bitsy](/Examples/NavaroliBitsy.html)
 
 ### Bot
 
