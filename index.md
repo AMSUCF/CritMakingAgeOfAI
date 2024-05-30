@@ -27,14 +27,14 @@ In addition, working samples of student works have been provided for each patter
 
 ### Comic
 
-- [Alessandra Zinicola Lopez, Comic](/Examples/LopezComic.jpg)
+- [Alessandra Zinicola Lopez, Comic](/Examples/LopezComic.jpeg)
 
 ### GIF
 
 - [PS Berge, GIF](/Examples/BergeGIF.gif)
 - [Farrah Cato, GIF](/Examples/CatoGIF.gif)
 - [Yingzi Kong, GIF](/Examples/KongGIF.gif)
-
+- [Kate Prior, GIF](/Examples/PriorGIF.gif)
 
 ### Map
 
@@ -55,8 +55,9 @@ In addition, working samples of student works have been provided for each patter
 
 ### Bot
 
-- [Vee Kennedy, Tracery](/Examples/KennedyTracery.html)
+- [Vee Kennedy, Tracery HTML Bot](/Examples/KennedyTracery.html)
 - [Amina Kotenko, Tracery](/Examples/KotenkoTracery.pdf) and [Bot](/Examples/KotenkoBot.pdf)
+- [Kate Prior, Tracery HTML Bot](/Examples/PriorBot.html)
 
 ### Analysis
 
