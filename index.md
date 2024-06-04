@@ -52,6 +52,7 @@ In addition, working samples of student works have been provided for each patter
 
 - [Vee Kennedy, Bitsy](/Examples/KennedyBitsy.html)
 - [Keidra Navaroli, Bitsy](/Examples/NavaroliBitsy.html)
+- [Lillian Neidhart, Bitsy](/Examples/NeidhardtBitsy.html)
 
 ### Bot
 
