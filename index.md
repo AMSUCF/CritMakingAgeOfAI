@@ -28,6 +28,7 @@ In addition, working samples of student works have been provided for each patter
 ### Comic
 
 - [Alessandra Zinicola Lopez, Comic](/Examples/LopezComic.jpeg)
+- [Emilie Buckley, Comic Zine Section One](/Examples/BuckleyComicOne.jpg) and [Two](/Examples/BuckleyComicTwo.jpg)
 
 ### GIF
 
