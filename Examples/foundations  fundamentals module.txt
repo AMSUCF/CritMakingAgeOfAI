@@ -1,0 +1,20 @@
+foundations / fundamentals module
+
+[12:03 PM] Rebecca McNulty
+Module 1: Fundamentals of Generative AI 
+Define generative AI  
+Explain the principles of generative models, including how they learn and generate outputs 
+Discuss applications and limitations of generative AI and how they might affect student learning and engagement
+History of AI and computer authorship
+Distinction between generative and general AI
+Interfaces for generative AI 
+
+4 minutes
+
+- 
+
+500ish words on the following:
+History of AI and computer authorship
+Distinction between generative and general AI
+Interfaces for generative AI
+important considerations surrounding "prompt engineering" 

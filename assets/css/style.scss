@@ -1,0 +1,286 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Cheerful Architecture-Inspired Custom Styles */
+
+/* Color palette inspired by modern architecture */
+:root {
+  --primary-color: #5b92e5;      /* Bright blue */
+  --accent-color: #ff9c4a;       /* Warm orange */
+  --highlight-color: #ffde59;    /* Cheerful yellow */
+  --light-color: #f5f7fa;        /* Light gray/white */
+  --dark-color: #2c3e50;         /* Dark blue/gray */
+  --text-color: #333333;         /* Dark gray for text */
+  --secondary-color: #7ac142;    /* Fresh green */
+}
+
+/* Base styles */
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--text-color);
+  background: linear-gradient(to bottom, var(--light-color) 0%, #e4e8ed 100%);
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styling with architectural influences */
+header {
+  background: var(--primary-color);
+  background: linear-gradient(to right, var(--primary-color), #4a7fd0);
+  position: relative;
+  border-bottom: 5px solid var(--accent-color);
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+header::after {
+  content: "";
+  position: absolute;
+  bottom: -15px;
+  left: 0;
+  width: 100%;
+  height: 10px;
+  background: linear-gradient(90deg, var(--highlight-color) 25%, transparent 25%, transparent 50%, var(--highlight-color) 50%, var(--highlight-color) 75%, transparent 75%);
+  background-size: 20px 20px;
+}
+
+/* Headings with architectural flair */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: var(--dark-color);
+  position: relative;
+}
+
+h1 {
+  font-size: 2.4em;
+  position: relative;
+  display: inline-block;
+}
+
+h1:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -8px;
+  width: 60%;
+  height: 4px;
+  background-color: var(--accent-color);
+}
+
+h2 {
+  font-size: 1.8em;
+  border-bottom: 2px solid var(--highlight-color);
+  padding-bottom: 5px;
+}
+
+/* Links with cheerful hover effects */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  border-bottom: 1px dotted transparent;
+}
+
+a:hover {
+  color: var(--accent-color);
+  border-bottom: 1px dotted var(--accent-color);
+}
+
+/* Content container with architectural shape */
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 30px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+  border-radius: 0 0 5px 5px;
+  position: relative;
+}
+
+/* Code blocks styling */
+pre, code {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  font-family: 'Source Code Pro', monospace;
+  padding: 2px 5px;
+}
+
+pre {
+  padding: 15px;
+  overflow-x: auto;
+  border-left: 4px solid var(--primary-color);
+}
+
+/* Button styling with architectural elements */
+.btn, button, input[type="submit"] {
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.btn:hover, button:hover, input[type="submit"]:hover {
+  background-color: var(--accent-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Navigation styling */
+nav {
+  margin-top: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  padding-top: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+nav li {
+  margin-right: 20px;
+  position: relative;
+}
+
+nav a {
+  color: white;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.9em;
+  display: block;
+  padding: 5px 0;
+  border-bottom: 2px solid transparent;
+}
+
+nav a:hover {
+  color: var(--highlight-color);
+  border-bottom: 2px solid var(--highlight-color);
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  border: 1px solid #e9ecef;
+}
+
+th, td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #e9ecef;
+}
+
+th {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Blockquote with architectural accent */
+blockquote {
+  margin: 20px 0;
+  padding: 15px 20px;
+  background-color: #f8f9fa;
+  border-left: 5px solid var(--accent-color);
+  font-style: italic;
+  position: relative;
+}
+
+blockquote:before {
+  content: """;
+  font-size: 4em;
+  position: absolute;
+  left: 5px;
+  top: -10px;
+  color: rgba(0, 0, 0, 0.1);
+  font-family: 'Georgia', serif;
+}
+
+/* Footer styling */
+footer {
+  margin-top: 30px;
+  padding: 20px 0;
+  text-align: center;
+  color: #8899a6;
+  font-size: 0.9em;
+  border-top: 3px solid var(--primary-color);
+  background-color: var(--light-color);
+}
+
+/* Responsive design */
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+  
+  header {
+    padding: 15px 10px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  nav ul {
+    flex-direction: column;
+  }
+  
+  nav li {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+}
+
+/* Add some architectural grid patterns to section dividers */
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
+  margin: 30px 0;
+  position: relative;
+}
+
+hr:after {
+  content: "";
+  display: block;
+  height: 10px;
+  width: 100%;
+  background: repeating-linear-gradient(90deg, var(--highlight-color), var(--highlight-color) 10px, transparent 10px, transparent 20px);
+  position: absolute;
+  top: 0;
+  opacity: 0.5;
+}

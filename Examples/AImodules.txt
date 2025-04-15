@@ -1,0 +1,40 @@
+
+Module 1: Fundamentals of Generative AI 
+
+Define generative AI.  
+Explain the principles of generative models, including how they learn and generate outputs. 
+Discuss applications and limitations of generative AI and how they might affect student learning and engagement. 
+ 
+
+Module 2: Generative AI Applications 
+
+Analyze various applications of generative AI, including image and video generation, text-to-image synthesis, and data augmentation, and encourage a flexible approach to tool integration. 
+Discuss the potential societal impact and ethical considerations of generative AI, focusing on issues like deep fakes, privacy, and the authenticity of generated content. 
+Explore the types of generative AI technologies applicable to education, such as content generation, personalized learning paths, and automated assessment tools. 
+ 
+
+Module 3: Ethics and Responsible Use of Generative AI 
+
+Understand the ethical considerations and challenges associated with the use of generative AI in education, including issues of data privacy, bias, and equity.
+Formulate strategies to ensure the responsible deployment of generative AI, emphasizing consistency, transparency, accountability, and inclusivity. 
+Promote digital literacy and critical thinking about AI among students to prepare them for a future where AI is ubiquitous. 
+  
+
+Module 4: Designing Prompts for Generative AI 
+
+Understand the concept of prompt engineering and its significance in guiding generative AI models. 
+Learn the components of an effective prompt, including clarity, specificity, and context. 
+Explore techniques for iterative prompt refinement to improve AI-generated content quality. 
+  
+
+Module 5: Evaluating Outputs from Generative AI 
+
+Use effective prompts to generate quality output. 
+Evaluate the performance of generative AI tools.
+Discuss ways generative AI can be used to aid productivity. 
+  
+Module 6: Integrating Generative AI with Teaching and Learning 
+
+Identify the potential of generative AI to enhance teaching methodologies and experiences for all learners. 
+Discuss the implications of generative AI on the traditional roles of educators and learners.
+Develop skills to select and integrate appropriate generative AI tools into curriculum design and delivery. 
